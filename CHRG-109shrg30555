@@ -1,0 +1,3282 @@
+9-1-1  AND  VoIP
+
+S.  HRG.  109–690
+
+FIELD  HEARING
+
+BEFORE THE 
+
+COMMITTEE ON COMMERCE, 
+
+SCIENCE, AND TRANSPORTATION 
+
+UNITED STATES SENATE 
+ONE  HUNDRED  NINTH  CONGRESS
+
+FIRST  SESSION
+
+SEPTEMBER  1,  2005
+
+Printed  for  the  use  of  the  Committee  on  Commerce,  Science,  and  Transportation
+
+(
+
+30–555
+
+WASHINGTON  : 
+
+2006
+
+U.S.  GOVERNMENT  PRINTING  OFFICE
+
+For sale by the Superintendent of Documents, U.S. Government Printing Office
+
+Internet: bookstore.gpo.gov Phone: toll free (866) 512–1800; DC area (202) 512–1800
+
+Fax: (202) 512–2250 Mail: Stop SSOP, Washington, DC 20402–0001
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00001 Fmt 5011 Sfmt 5011 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+SENATE  COMMITTEE  ON  COMMERCE,  SCIENCE,  AND  TRANSPORTATION 
+
+TED  STEVENS,  Alaska,  Chairman 
+
+JOHN  MCCAIN,  Arizona 
+CONRAD  BURNS,  Montana 
+TRENT  LOTT,  Mississippi 
+KAY  BAILEY  HUTCHISON,  Texas 
+OLYMPIA  J.  SNOWE,  Maine 
+GORDON  H.  SMITH,  Oregon 
+JOHN  ENSIGN,  Nevada 
+GEORGE  ALLEN,  Virginia 
+JOHN  E.  SUNUNU,  New  Hampshire 
+JIM  DEMINT,  South  Carolina 
+DAVID  VITTER,  Louisiana 
+
+DANIEL  K.  INOUYE,  Hawaii,  Co-Chairman 
+JOHN  D.  ROCKEFELLER  IV,  West  Virginia 
+JOHN  F.  KERRY,  Massachusetts 
+BYRON  L.  DORGAN,  North  Dakota 
+BARBARA  BOXER,  California 
+BILL  NELSON,  Florida 
+MARIA  CANTWELL,  Washington 
+FRANK  R.  LAUTENBERG,  New  Jersey 
+E.  BENJAMIN  NELSON,  Nebraska 
+MARK  PRYOR,  Arkansas 
+
+LISA J.  SUTHERLAND,  Republican  Staff  Director 
+
+CHRISTINE DRAGER KURTH,  Republican  Deputy  Staff  Director 
+
+DAVID RUSSELL,  Republican  Chief  Counsel 
+
+MARGARET L.  CUMMISKY,  Democratic  Staff  Director  and  Chief  Counsel 
+
+SAMUEL E.  WHITEHORN,  Democratic  Deputy  Staff  Director  and  General  Counsel 
+
+LILA HARPER HELMS,  Democratic  Policy  Director 
+
+(II)
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00002 Fmt 5904 Sfmt 5904 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+C O N T E N T S 
+
+Opening Statement of Hon. Conrad Burns, U.S. Senator from Montana ...........
+Statement  of  David  Jones,  President,  National  Emergency  Number  Associa-
+tion (NENA) ..........................................................................................................
+Statement of Jeffrey Citron, Chairman and CEO, Vonage ..................................
+Statement  of  Wanda  McCarley,  President-Elect  of  the  Association  of  Public-
+Safety Communications Officials-International (APCO) ..................................
+Statement of Greg Rohde, Executive Director, E–911 Institute ..........................
+Statement of George Heinrichs, President and CEO, Intrado .............................
+Statement  of  Janet  Kelly,  Director,  Department  of  Administration,  State  of 
+Montana ................................................................................................................
+Statement of Jeremy Ferkin, General Manager, CenturyTel, Inc. ......................
+Statement of William Squires, Sr. Vice President and General Counsel, Black-
+foot Telecommunications Group ..........................................................................
+Statement  of  Greg  Jergeson,  Chairman,  Public  Service  Commission  of  Mon-
+tana .......................................................................................................................
+
+Page 
+1 
+
+3 
+10 
+
+13 
+16 
+22
+
+29
+32
+
+36
+
+39 
+
+(III)
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00003 Fmt 5904 Sfmt 5904 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00004 Fmt 5904 Sfmt 5904 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+9-1-1  AND  VOIP 
+
+THURSDAY,  SEPTEMBER  1,  2005 
+
+COMMITTEE ON COMMERCE, SCIENCE, AND 
+
+U.S. SENATE, 
+
+The Committee met, pursuant to notice, at 1:30 p.m. at the Great 
+
+Falls Civic Center, Hon. Conrad Burns, presiding. 
+
+TRANSPORTATION, 
+
+Great Falls, MT. 
+
+OPENING STATEMENT OF HON. CONRAD BURNS,
+
+U.S. SENATOR FROM MONTANA 
+
+Senator  BURNS.  We’ll  call  the  Committee  to  order,  and  this  is  a 
+Committee  of  one  today,  I  see.  If  I’ve  got  the  vote,  we’ll  go  ahead 
+and pass this bill, and let’s do away with the hearings. 
+
+But  we  want  to  welcome  you  all  to  this  field  hearing  on  Voice 
+Over  IP  and  E–911.  We  thank  you  for  coming  today.  It’s  nice  to 
+have  this,  and  a  lot  of  our  friends  to  be  welcome  to  the  Big  Sky 
+Country.  This  is  really  the  last  best  place,  and  we  don’t  need  any-
+one  out  here  in  the  state  to  tell  us  so,  or  should  we  try  to  control 
+our  words  and  the  way  we  feel  about  Montana.  I  think  I  might 
+need to place a call to the Copyright Office once I go back to Wash-
+ington,  however.  We’re  arguing  over,  ‘‘The  last  best  place.’’  I  don’t 
+think it’s going to go inside the beltway. 
+
+It’s not often that we get to do official business, Senate business 
+here in Montana, but when we do, I’m always glad to welcome folks 
+from  around  the  state  to  take  part.  I  find  the  people  have  a  lot 
+more sense outside the beltway, and Washington D.C. continues to 
+be  one  of  the  logic-free  zones  of  the  country.  So  I  welcome  all  of 
+the  people  from  Great  Falls  and  around  the  state  who  are  here 
+today, and I’d also like to thank the city of Great Falls for making 
+this great facility available to us today for this hearing. 
+
+Today’s  hearing  is  on  a  subject  near  and  dear  to  me,  emergency 
+communication  systems  to  first  responders,  making  sure  that  they 
+have access to the latest technologies that they need: 9-1-1 and en-
+hanced  9-1-1  system  in  Voice  Over  Internet  Protocol  Services.  We 
+call that VoIP, Voice Over Internet. 
+
+That’s  quite  a  mouthful  in  itself.  But  it  only  describes  the  latest 
+challenge in what is truly a simple and necessary matter of public 
+policy,  that  our  Nation’s  communications  infrastructure,  as  it 
+moves forward with technological change and new business models, 
+must  incorporate  universal  access  to  9-1-1  and  emergency  services 
+as it does. 
+
+A few years ago, with this important goal in mind, we set up the 
+Congressional  E–911  Caucus,  which  takes  a  leading  role  in  identi-
+
+(1)
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00005 Fmt 6633 Sfmt 6633 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+2
+
+fying  issues  of  pressing  concern  to  public  safety  and  the  commu-
+nity,  and  helping  us  in  Congress  to  understand  what  needs  to  be 
+done,  and  what  should  be  done  to  ensure  that  the  9-1-1  system  is 
+up to date, and responsive as it needs to be. 
+
+New technologies such as Voice Over IP are beneficial to telecom 
+carriers, businesses, and consumers alike. My philosophy is that we 
+should not do anything in Congress that would harm or impede the 
+deployment of beneficial technologies. 
+
+But  at  the  same  time,  it  is  clearly  in  the  public  interest  for  the 
+Nation’s  emergency  response  infrastructure,  including  over  6,000 
+Public  Safety  Access  Points,  or  PSAPs  as  we  call  them,  to  be  in-
+cluded in the technological advances. And although they clearly un-
+derstand the need to move forward, the PSAPs do not always have 
+the  resources  or  incentives  to  move  quite  as  quickly  as  the  private 
+sector does. I think we in Congress can help all the affected stake-
+holders to achieve that common goal. 
+
+With  that  in  mind,  we  worked  on  the  ENHANCE  9-1-1  Act, 
+which  the  President  signed  into  law  last  December,  that  will  pro-
+vide  matching  grants  to  PSAPs  that  upgrade  their  system  to  re-
+ceive  enhanced  9-1-1  data  from  mobile  phones,  which  is  the  loca-
+tion  and  the  number  of  the  caller,  so  that  first  responders  can  get 
+to  them  the  same  way  they  get  to  the  addresses  of  the  landline 
+callers, or the hard wire, as we call them. I hope to get full funding 
+for that program this year. 
+
+But today we are here to talk about VoIP, and its services, what 
+the best way might be for them to include 9-1-1 and E–911 in their 
+services.  Voice  Over  Internet  Protocol  services  are  growing  dra-
+matically.  There  are  currently  over  three  million  Voice  Over  IP 
+subscribers  in  the  United  States,  with  over  25  million  expected  in 
+the  next  five  years.  I  hope  we’re  closer  to  that  number  than  when 
+we  estimated  cell  phone  users  in  2000  when  we  passed  the  1996 
+Act. 
+
+But we know that those services are minimally intrusive for pro-
+viders and ensure subscribers that they have access to 9-1-1 service 
+as they expect when they dial their phone. 
+
+It’s  important  that  we  move  quickly.  There  are  a  few  well  pub-
+licized  cases  of  people  actually  dying  earlier  this  year  when  they 
+dialed  9-1-1  from  a  VoIP  phone,  and  could  not  get  through  to  9-1-
+1  call  centers.  That  kind  of  thing  is  shocking.  It  is  also  unaccept-
+able. 
+
+With  these  stories  in  mind,  last  May  the  FCC  issued  an  order 
+making 9-1-1 and E–911 mandatory for VoIP providers, and requir-
+ing  that  incumbent  Bell  providers  make  access  to  the  9-1-1  infra-
+structure available to those companies. 
+
+In  Congress  on  the  same  day,  we  introduced  bills  in  the  House 
+and  the  Senate  to  do  basically  the  same  thing.  I’m  the  sponsor  of 
+the  Senate  bill,  and  would  like  to  thank  my  fellow  Senators,  Bill 
+Nelson  of  Florida,  and  Hillary  Clinton  of  New  York,  both  Demo-
+crats, for their leadership as well on this issue. Public safety is not 
+a  partisan  issue,  and  I’m  proud  to  work  across  the  aisle  with 
+Democrats  if  it  will  help  save  lives  of  Americans  all  across  this 
+country. 
+
+I  understand  Senator  Nelson  has  inserted  a  statement  in  the 
+record, and we’re going to accept that by unanimous consent. So or-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00006 Fmt 6633 Sfmt 6633 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+3
+
+dered. But being as he couldn’t be here today, and there’s good rea-
+son for that. So I would like to make note of that. 
+
+So  I  look  forward  to  hearing  testimony  today  on  the  state  of  9-
+1-1  and  VoIP  services  in  general,  the  FCC  order,  and  the  bill  that 
+we  will  have  before  the  Senate.  I  hope  each  one  of  you  is  going  to 
+tell us what the FCC order does right, and what it does wrong, and 
+how  the  bill  might  be  improved  to  fix  some  of  the  things  that  are 
+especially difficult for companies to do. 
+
+I know you won’t be shy in telling me what the problems are, but 
+you  should  also  be  aware  that  this  is  a  problem  which  we  need  to 
+fix, and fix it very soon. So I look to you for your expertise in how 
+we accomplish this great job. 
+
+Now, it gives me a great deal of pleasure to welcome to the table 
+today  our  witnesses,  and  then  we  will  start  the  dialogue.  First  of 
+all,  we  have  David  Jones,  president  of  NENA—and  thank  you, 
+David,  for  your  kind  words  today—Jerry  Citron  of  Vonage,  co-
+founder,  and  Chairman,  and  CEO;  Wanda  McCarley,  APCO;  and 
+Greg Rohde, of course, you heard from today on E–911; and George 
+Henry, CEO and Chairman of the Board of Intrado. So we welcome 
+all  of  these  folks.  And  David,  we’ll  start  off  with  you.  Thank  you 
+for coming today.
+
+STATEMENT OF DAVID JONES, PRESIDENT, NATIONAL 
+
+EMERGENCY NUMBER ASSOCIATION (NENA) 
+
+Mr.  JONES.  Thank  you,  Senator  Burns.  Thank  you  for  providing 
+me the opportunity to appear before you today. Again, my name is 
+David Jones, and I currently serve Spartanburg, South Carolina as 
+the  Director  of  Emergency  Services.  I’m  also  the  President  of  the 
+National  Emergency  Number  Association,  an  organization  con-
+sisting of more than 7,000 members in 46 chapters across the U.S. 
+and Canada. Additionally, I serve as the Vice Chair of the Federal 
+Communications  Commission’s  Intergovernmental  Advisory  Com-
+mittee  representing  the  interests  of  local  government  and  public 
+safety. 
+
+Senator,  I  applaud  your  leadership,  as  well  as  that  of  your  col-
+leagues and staff, in bringing the 9-1-1 community to the table for 
+these vital discussions about the future of public safety communica-
+tions. The 9-1-1 community has known no greater friend than you, 
+Senator, and we sincerely thank you for your continued leadership 
+that you have provided on 9-1-1 issues over the years. 
+
+I’m here today to testify in support of the IP-Enabled Voice Com-
+munications  in  Public  Safety  Act  of  2005.  We  applaud  the  recent 
+actions  taken  by  the  FCC  in  adopting  its  order  on  E–911  require-
+ments  for  IP  enabled  service  providers,  but  NENA  believes  Con-
+gressional  action  in  this  area  is  needed  as  well.  As  legislation  to 
+update our communications law is drafted, NENA encourages Con-
+gress  to  include  provisions  that  address  critical  9-1-1  and  public 
+safety concerns. The IP Enabled Voice Communications and Public 
+Safety Act provides a foundation for such action. 
+
+As  9-1-1  in  emergency  communications  continues  to  advance,  it 
+is critical that communications regulation evolve in a parallel fash-
+ion,  and  is  flexible  enough  to  accommodate  future  advancements 
+that  have  yet  to  be  considered.  Today  IP  is  where  we  were  with 
+wireless  some  ten  years  ago,  and  industry  and  technology  are  ad-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00007 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+4
+
+vancing  at  a  rapid  rate  with  unlimited  promise,  facing  the  chal-
+lenge,  and  regulatory  requirement  to  provide  E–911  to  all  cus-
+tomers. 
+
+Even  today,  though,  after  more  than  ten  years  of  discussion  and 
+debate,  wireless  E–911  is  available  in  less  than  50  percent  of  the 
+PSAPs  in  the  U.S.  We  must  not  allow  history  to  repeat  itself  with 
+Voice Over IP. 
+
+Last  June  I  testified  before  this  Committee  supporting  the  need 
+for  targeted  Federal  regulation  for  E–911  and  VoIP,  suggesting 
+that  this  would  most  appropriately  be  handled  by  the  FCC.  Since 
+then,  the  Commission  has  acted,  and  we  applaud  their  leadership. 
+Now  we  must  work  together  at  all  levels  of  government  and  with 
+industry  to  plan  for  a  nationally  standardized  and  coordinated  ap-
+proach to deployment of Voice Over IP E–911. 
+
+Too often in the past we have tried to draft new laws and regula-
+tions for 9-1-1 requirements for innovative technologies as they are 
+introduced,  including  wireless  VoIP.  In  recognition  of  this  issue 
+earlier  this  month,  NENA  joined  APCO  and  several  other  groups 
+in  a  letter  asking  Congress  to  include  a  clear  statement  on  the  ju-
+risdiction of the FCC to establish rules requiring providers of inter-
+connected  voice  telecommunications  services  to  provide  their  cus-
+tomers with E–911 capabilities. 
+
+We  certainly  agree  that  this  is  an  important  topic  to  consider, 
+given  today’s  9-1-1  system,  but  NENA  asks  Congress  to  go  a  step 
+further. NENA believes that regardless of the service classification, 
+telecommunications information, or otherwise, if a service provides 
+a  communications  capability,  in  which  a  customer  can  reasonably 
+expect to be able to reach a public safety answering point when di-
+aling 9-1-1, whenever the PSTN, an IP network, or some other yet 
+to be identified path, the FCC should have the clear regulatory au-
+thority to address the 9-1-1 aspects of these services. 
+
+This  is  not  to  suggest  that  the  FCC  should  enact  regulation  to 
+cover all potential service types, but the FCC should have sufficient 
+authority  if  regulation  is  deemed  necessary.  Congress  does  not 
+have  to  continually  go  back  and  update  laws  based  on  every  new 
+communications technology or service that need 9-1-1 access. 
+
+Therefore,  we  support  the  provisions  in  the  IP-Enabled  Voice 
+Communication  and  Public  Safety  Act  that  authorizes  the  FCC  to 
+regulate  in  the  area  of  IP-enabled  voice  communications,  but  we 
+ask  Congress  to  extend  that  authority  to  any  service  that  provides 
+a  communications  capability  in  which  a  customer  can  reasonably 
+expect to reach a PSAP when dialing 9-1-1. 
+
+Funding  for  IP-enabled  9-1-1  services  in  the  development  of  the 
+next  generation  9-1-1  systems  is  perhaps  most  important  issue  of 
+9-1-1 today. The public safety community is extremely concerned by 
+the  need  and  growing  impact  of  VoIP  on  the  loss  of  conventional 
+service  fees  and  surcharge  revenue,  and  the  uncertainties  of  any 
+requirement  to  replace  that  critical  operational  funding  stream  in 
+the VoIP environment. 
+
+Thus, in addition to establishing clear FCC regulatory authority, 
+it  is  essential  that  Congress  do  nothing  to  compromise  state  and 
+local  authority  to  impose  and  collect  9-1-1  fees  on  all  services 
+where  a  customer  has  a  reasonable  expectation  of  being  connected 
+to  9-1-1,  again,  regardless  of  the  type  of  technology.  As  technology 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00008 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+5
+
+evolves,  the  classification  of  service  or  technology  type  should  not 
+have  an  effect  on  the  ability  of  state  and  local  government  to  ad-
+dress those issues. 
+
+Congress  should  also  consider  ways  to  facilitate  state  and  local 
+funding  of  critical  9-1-1  emergency  communications  systems.  Last 
+year  Congress  effectively  acted  in  this  regard  by  passing  the  EN-
+HANCE  9-1-1  Act  of  2004,  and  authorizing  up  to  $250  million  per 
+year in grants for 9-1-1 system upgrades. However to date, no mon-
+ies  have  been  appropriated  to  fund  such  a  grant.  NENA  implores 
+Congress  to  fund  the  ENHANCE  9-1-1  Act  of  2004.  The  continued 
+success  and  sustainability  of  our  9-1-1  system  will  greatly  benefit 
+from such action. 
+
+The  IP-Enabled  Voice  Communications  and  Safety  Act  of  2005 
+requires each entity with ownership or control of a 9-1-1 infrastruc-
+ture, known commonly as 9-1-1 system service providers, to provide 
+requesting  IP-enabled  service  providers  access  to  the  equipment, 
+databases,  network,  and  other  necessary  capabilities  on  a  non-dis-
+criminatory basis. The bill also provides immunity from liability to 
+the same extent as provided to local telephone exchange companies 
+for providers of IP-enabled 9-1-1 service. 
+
+Additionally,  the  bill  provides  liability  protection  to  the  users  of 
+such services, as well as liability protection for PSAPs to the same 
+extent they currently have for non-IP-enabled service. 
+
+On  the  issue  of  liability  parity,  the  bill  mirrors  the  language 
+granted  to  wireless  carriers,  users  of  wireless  service,  and  PSAPs 
+that is contained in the Wireless Communications Act of 1999. 
+
+It is important to note that the Wireless Act of 1999 was passed 
+before the widespread deployment of Phase I and II, an action that 
+was  deemed  critical  and  applauded  by  both  the  9-1-1  community 
+and industry. 
+
+NENA believes it is also important to have liability parity for IP-
+enabled  services  enacted  into  the  law  before  the  quickly  approach-
+ing 120-day VoIP E–911 deadline of November 28th. 
+
+Past  experience  in  the  deployment  of  E–911  has  shown  that  a 
+lack of legal clarity on important topics, such as liability parity and 
+nondiscriminatory  access  to  E–911  capability,  can  lead  to  a  delay 
+in the provision of E–911 service. 
+
+Therefore,  NENA  wholeheartedly  supports  the  provisions,  as  we 
+believe they are essential to ensure the timely deployment of E–911 
+for IP-enabled services. 
+
+Finally,  NENA  believes  that  planning  now  for  the  future  9-1-1 
+system is of paramount importance, and fully supports Section 3 of 
+the  IP-Enabled  Voice  Communications  Act.  We  hope  the  telecom 
+reform will be done this year, and include the important 9-1-1 pro-
+vision identified in my testimony. 
+
+However,  past  experience  has  shown  this  type  of  reform  can  be-
+come  bogged  down  in  negotiations,  and  take  longer  than  expected 
+to  complete.  Should  this  happen,  NENA  believes  it  is  very  impor-
+tant  that  the  9-1-1  provisions  discussed  here  be  included  in  the 
+stand-alone  bill,  such  as  a  slightly  modified  version  of  the  IP-En-
+abled Voice Communication Act, and considered by Congress before 
+the session ends this year. 
+
+To  conclude,  NENA  fully  supports  each  of  the  provisions  in  this 
+act as they pertain to VoIP 9-1-1, but asks Congress to broaden the 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00009 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+6
+
+scope  of  the  bill  to  include  any  service  that  provides  communica-
+tions capability in which a customer can reasonably expect to reach 
+a PSAP when dialing 9-1-1. Thank you. 
+
+[The prepared statement of Mr. Jones follows:]
+PREPARED STATEMENT OF DAVID F. JONES, PRESIDENT, NATIONAL EMERGENCY 
+
+NUMBER ASSOCIATION (NENA) 
+
+Mr. Chairman and Members of the Committee, thank you very much for providing 
+me  the  opportunity  to  appear  before  you  today.  My  name  is  David  Jones  and  I’m 
+a  nationally  certified  Emergency  Number  Professional  (ENP),  serving  Spartanburg 
+County, South Carolina as the Director of Emergency Services. 
+
+I’m  also  the  President  of  the  National  Emergency  Number  Association  (NENA), 
+an  organization  consisting  of  more  than  7,000  members  in  46  chapters  across  the 
+U.S.  and  Canada  representing  public  officials,  fire,  EMS,  law  enforcement,  equip-
+ment  and  service  providing  vendors  of  the  9-1-1  community.  Additionally,  I  serve 
+as the Vice Chair of the Federal Communications Commission’s (FCC) Intergovern-
+mental  Advisory  Committee  (IAC),  representing  the  interests  of  local  government 
+and public safety. I am also a longtime member of the Association for Public Safety 
+Communications Officials (APCO) International. 
+
+Today  I  appear  before  the  Committee  on  behalf  of  NENA,  but  also  standing  on 
+the shoulders of the thousands of 9-1-1 professionals in America who work tirelessly 
+to  help  those  people  who  dial  9-1-1  in  times  of  need.  Admirable  colleagues,  like 
+those  on  my  team  in  Spartanburg,  who  continue  to  find  ways  to  get  the  job  done 
+regardless of the technical obstacles or challenges of modern communications in our 
+Public  Safety  Answering  Point  (PSAP).  National  leadership,  like  that  of  Senators 
+Burns and Clinton, as well as Representatives Shimkus and Eshoo, co-chairs of the 
+Congressional  E–911  Caucus.  I  thank  all  of  you  for  your  tireless  work  to  make  our 
+9-1-1 system work like it should. 
+Opening Comments 
+
+Mr.  Chairman,  I  applaud  your  leadership,  as  well  as  that  of  your  colleagues  and 
+staff  in  bringing  the  9-1-1  community  to  the  table  for  these  vital  discussions  about 
+the  future  of  public  safety  communications.  The  9-1-1  Community  has  known  no 
+greater  friend  than  Senator  Conrad  Burns.  I  sincerely  thank  you  for  the  continued 
+leadership  you  have  provided  on  9-1-1  issues  over  the  years.  NENA  represents  the 
+national  9-1-1  community  as  the  ‘‘Voice  of  9-1-1’’,  but  if  there  is  truly  one  voice  of 
+9-1-1 in the halls of Congress, surely it is Senator Conrad Burns. 
+
+In the late 1990’s, Senator Burns led an effort to recognize ‘9-1-1’ as the universal 
+number for emergency calling and to ensure the deployment of wireless E–911. En-
+acted  by  Congress,  ‘‘The  Wireless  Communications  and  Public  Safety  Act  of  1999’’ 
+is our foundation for greater 9-1-1 policy goals. 
+
+Building off of the success of that legislation, Senator Burns helped found the E–
+911 Caucus, along with fellow co-chairs Senator Hillary Clinton, Congressman John 
+Shimkus  and  Congresswoman  Anna  Eshoo,  a  group  whose  leadership  on  9-1-1 
+issues has been unparalleled. Most recently Senator Burns, along with the other E–
+911  Caucus  co-chairs,  successfully  led  the  charge  to  pass  the  ENHANCE  911  Act 
+of  2004.  Signed  into  law  by  President  Bush  on  December  23,  2004,  the  ENHANCE 
+911  Act  authorized  the  creation  of  a  national  9-1-1  Implementation  and  Coordina-
+tion  (ICO)  office  and  up  to  $250  million  per  year  for  grants  to  upgrade  enhanced 
+emergency communications services. This was monumental legislation for 9-1-1 and 
+I  thank  Senator  Burns  and  the  E–911  Caucus  co-chairs  for  their  efforts  this  year 
+to secure an appropriation to fund the provisions in that law. 
+
+Thank you Senator Burns, and fellow E–911 Caucus co-chairs, for your continued 
+
+leadership and support of 9-1-1. 
+
+I am here today to testify in support of the IP-Enabled Voice Communications and 
+Public  Safety  Act  of  2005.  We  applaud  the  recent  actions  taken  by  the  FCC  in 
+adopting  its  Order  on  E–911  requirements  for  IP-enabled  service  providers,  but 
+NENA  believes  Congressional  action  in  this  area  is  needed  as  well.  We  appreciate 
+the  need  to  enact  communications  legislation  that  encourages  innovation  and  the 
+widespread deployment of broadband service which we believe will not only provide 
+benefits  to  the  general  public,  but  will  also  have  an  enormous  positive  impact  on 
+public  safety  communications.  As  legislation  to  update  our  communications  laws  is 
+drafted,  NENA  encourages  Congress  to  include  provisions  that  address  critical
+9-1-1 and public safety concerns focusing on today’s needs and taking into consider-
+ation the progression towards the next generation 9-1-1 and emergency services sys-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00010 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+7
+
+tem. The IP-Enabled Voice Communications and Public Safety Act provides a foun-
+dation for such action. 
+
+In my statement today, I will refer to our vision, our needs and respectfully make 
+recommendations to improve the legislation before the Committee, emphasizing fun-
+damental points for NENA, 9-1-1 and IP-enabled services. 
+The Changing Landscape of 9-1-1
+
+Since its inception, the 9-1-1 system has been THE first responder in times of in-
+dividual and mass emergencies. Every day, Americans call 9-1-1 at the time of their 
+greatest need. Today we are averaging over 200 million 9-1-1 calls per year. Ninety-
+six  percent  of  the  Nation’s  geography  is  covered  by  at  least  some  basic
+9-1-1; ninety-nine percent of the American public has access to 9-1-1. For the caller 
+and the public, the successful completion of a 9-1-1 call can mean the difference be-
+tween danger and security, injury and recovery, or life and death. The ability to call 
+for help in times of an emergency is not ‘voluntary’—it’s mandatory. 
+
+Yet  the  advancement  of  communications  and  network  technology  is  quickly  blur-
+ring  the  lines  of  familiarity  in  the  world  of  emergency  communications  and  9-1-1. 
+No  longer  can  we  discuss  9-1-1  solely  in  the  context  of  the  public  switch  telephone 
+network  (PSTN).  No  longer  can  we  discuss  the  routing  of  9-1-1  calls  as  being  de-
+pendent  on  the  use  of  the  existing  analog,  circuit  switched  telephone  network.  In 
+fact,  just  last  week  NENA  introduced  for  public  comment  its  first  ever  VoIP  9-1-
+1  standard.  NENA  started  with  ‘‘One  nation—One  number’’,  and  now  we  add,  ‘‘any 
+device,  from  anywhere,  at  anytime.’’  As  9-1-1  and  emergency  communications  con-
+tinue  to  advance,  it  is  critical  that  communications  regulation  evolves  in  a  parallel 
+fashion  and  is  flexible  enough  to  accommodate  future  advancements  that  have  yet 
+to be considered. 
+
+Truly  the  future  is  happening  now.  Already,  over  fifty  million  Americans  are 
+using some form of broadband Internet access offering exciting new communications 
+possibilities.  Voice  over  IP  is  coming.  In  many  places  it’s  already  here.  IP-enabled 
+services are dynamic, competitive, innovative and most of all, an opportunity to im-
+prove  all  of  our  communications  systems.  Better,  faster,  cheaper  technology  and 
+communications  service  is  vital  to  American  consumers  and  business,  but  it  may 
+prove even more vital for our public safety and security. 
+
+With our excitement for IP-enabled services comes some trepidation. Today, IP is 
+where  we  were  with  wireless  ten  years  ago;  an  industry  and  technology  advancing 
+at a rapid rate with unlimited promise facing the challenge, and regulatory require-
+ment,  to  provide  E–911  to  all  customers.  Even  today,  after  more  than  ten  years  of 
+discussion  and  debate,  wireless  E–911  is  available  in  less  than  fifty  percent  of  the 
+PSAPs  in  the  United  States.  We  must  not  allow  history  to  repeat  itself  with  VoIP. 
+It  is  critical  that  all  parties,  public  and  private,  come  together  in  the  spirit  of  co-
+operation,  collaboration  and  good  faith,  to  plan  a  national  deployment  for  VoIP.  To 
+make this happen will require a good deal of leadership at all levels of government, 
+starting with the United States Congress. 
+National Plan for 9-1-1 and IP-Enabled Communications Services 
+
+Last June I testified before this Committee supporting the need for targeted Fed-
+eral  regulation  for  E–911  and  VoIP,  suggesting  that  this  would  most  appropriately 
+be handled by the FCC. Since then the Commission has acted and we applaud their 
+leadership. Now we must work together at all levels of government and with indus-
+try  to  plan  for  a  nationally  standardized  and  coordinated  approach  to  the  deploy-
+ment of VoIP E–911. 
+
+To  be  effective  and  meaningful,  E–911  must  be  included  in  a  wide  range  of  VoIP 
+and  IP-enabled  products  and  services.  This  includes  both  voice  and  data,  whether 
+serving  a  fixed  location,  or  nomadic  locations  that  may  change  from  day  to  day,  or 
+operating wirelessly in a much greater area over Wi-Fi or Wi-Max networks for ex-
+ample. Each of these service types offers different challenges. 
+
+The  technical  development  of  9-1-1  must  be  convergent  with  its  policy  direction. 
+Today’s  regulations  for  9-1-1  are  fragmented,  consisting  of  a  jurisdictional  patch-
+work  of  rules  for  various  types  of  communications,  providers  and  stakeholders 
+Wireline  issues  are  regulated  by  states.  Wireless  issues  are  regulated  by  the  FCC. 
+9-1-1  public  safety  answering  points  are  often  local.  Consumer  expectations  are  na-
+tional. VoIP can be international. 
+
+9-1-1  needs  to  be  treated  as  an  integrated  public  safety  service,  part  of  a  larger 
+whole  for  our  safety  and  national  security.  This  concept  has  been  recently  tested 
+with  the  deployment  of  wireless  E–911.  Through  this  process,  we’ve  learned  some 
+important lessons in implementing new technologies with E–911 systems: (1) E–911 
+must  be  treated  as  an  inter-dependent  overall  system;  (2)  coordination  is  very  im-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00011 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+8
+
+portant; (3) Federal leadership is necessary for national implementation and resolu-
+tion of issues. 
+
+In  our  experience,  voluntary  consensus  development,  within  reasonable  time-
+frames,  of  requirements  and  rules  for  technology  and  service  integration  provides 
+the best results. To enable a coordinated national deployment of VoIP it is very im-
+portant that Congress and the FCC provide directive influence to encourage the de-
+velopment  of  national  standards  and  require  the  early  adoption  of  recognized  na-
+tional  standards  when  they  become  available.  Federal  rules  and  regulations  should 
+provide reasonable guidelines to enable a path forward but should allow the appro-
+priate  standards  processes  to  determine  the  specific  methodologies  to  meet  such 
+guidelines. In doing so, the FCC and Congress will contribute needed leadership to-
+ward  the  facilitation  of  a  nationally-coordinated  effort  in  delivering  IP-enabled  E–
+911 service. 
+
+NENA  strongly  encourages  both  the  FCC  and  Congress  to  work  closely  with  the 
+joint  NHTSA/NTIA  national  9-1-1  Implementation  and  Coordination  Office  once  es-
+tablished. We believe the ICO should manage all 9-1-1 specific functions at the Fed-
+eral  level.  The  ICO  is  uniquely  positioned  to  coordinate  and  provide  guidance  to 
+multiple ongoing 9-1-1 efforts at the national, state and local level. This will ensure 
+that individual efforts are not occurring in a void and are not duplicated or at cross 
+purposes. 
+Regulatory Authority 
+
+Too  often  in  the  past  we  have  tried  to  draft  new  laws  and  regulations  for  E–911 
+requirements  for  innovative  technologies  as  they  are  introduced,  including  wireless 
+and  VoIP.  Recognizing  this  issue,  earlier  this  month  NENA  joined  APCO  and  sev-
+eral  other  groups  in  a  letter  asking  Congress  to  include  a  clear  statement  in  any 
+telecom  reform  language  on  the  jurisdiction  of  the  FCC  to  establish  rules  requiring 
+providers  of  interconnected  voice  telecommunications  services  to  provide  their  cus-
+tomers with E–911 capabilities. 
+
+We  certainly  agree  that  this  is  an  important  topic  to  consider  given  today’s  9-1-
+1 system, but NENA asks Congress to go a step further. NENA believes that regard-
+less  of  the  service  classification—telecommunications,  information  or  otherwise—if 
+a service provides a communications capability in which a customer can reasonably 
+expect  to  be  able  to  reach  a  PSAP  when  dialing  9-1-1,  whether  over  the  PSTN,  an 
+IP  network  or  some  other  yet  to  be  identified  path,  the  FCC  should  have  the  clear 
+regulatory authority to address the 9-1-1 aspects of those services. 
+
+This is not to suggest that the FCC should enact regulations to cover all potential 
+service  types,  but  the  FCC  should  have  sufficient  authority  so  that  if  regulation  is 
+deemed  necessary,  Congress  does  not  have  to  continually  go  back  and  update  laws 
+based  on  every  new  communications  technology  or  service  needing  9-1-1  access. 
+Therefore  we  support  the  provision  in  the  IP-Enabled  Voice  Communications  and 
+Public  Safety  Act  that  authorizes  the  FCC  to  regulate  in  the  area  of  IP-enabled 
+voice  communications,  but  we  ask  Congress  to  extend  that  authority  to  any  service 
+that  provides  a  communications  capability  in  which  a  customer  can  reasonably  ex-
+pect to be able to reach a PSAP when dialing 9-1-1. 
+State Authority 
+
+Funding  for  IP-enabled  E–911  services  and  the  development  of  the  next  genera-
+tion  9-1-1  system  is  perhaps  the  most  important  issue  for  9-1-1  today.  The  public 
+safety  community  is  extremely  concerned  by  the  immediate  and  growing  impact  of 
+VoIP  on  loss  of  conventional  service  fees  and  surcharge  revenue,  and  the  uncer-
+tainty of any requirement to replace that critical operational funding stream in the 
+VoIP  environment.  We  support  the  need  for  national  direction  from  the  FCC,  just 
+as we support cabinet-level attention to 9-1-1 issues through the national 9-1-1 Pro-
+gram Office. 
+
+Thus,  in  addition  to  establishing  clear  FCC  regulatory  authority,  it  is  essential 
+that Congress do nothing to compromise state and local authority to impose and col-
+lect  9-1-1  fees  on  all  services  where  a  customer  has  a  reasonable  expectation  of 
+being  connected  to  9-1-1,  again  regardless  of  the  type  of  technology.  In  addition  to 
+funding,  there  will  be  other  state  and  local  issues  as  well  that  are  best  addressed 
+at  that  level,  but  it  is  clear  that  as  technology  evolves,  the  classification  of  service 
+or technology type should not have an effect on the ability of state and local govern-
+ment to address those issues. 
+
+Congress should also consider ways to facilitate state and local funding of critical 
+9-1-1  emergency  communications  systems.  Last  year  Congress  effectively  acted  in 
+this  regard  by  passing  the  ENHANCE  911  Act  of  2004  and  authorizing  up  to  $250 
+million  per  year  in  grants  for  9-1-1  system  upgrades.  However,  to  date  no  monies 
+have  been  appropriated  to  fund  such  grants.  NENA  implores  Congress  to  fund  the 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00012 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+9
+
+ENHANCE  911  Act.  The  continued  success  and  sustainability  of  our  9-1-1  system 
+will greatly benefit from such action. 
+
+While  ensuring  that  states  have  the  authority  to  impose  fees  on  VoIP  services  is 
+important,  NENA  also  acknowledges  that  a  shift  in  the  9-1-1  funding  model  may 
+be  needed  as  we  move  to  the  next  generation  IP-enabled  E–911  network.  This  sub-
+ject is a main topic of the NENA Next Generation NG E–911 Program, a year long 
+effort  that  is  also  addressing  key  next  generation  technical  and  operational  9-1-1 
+issues.  All  Program  participants  agree  that  until  a  clear  solution  is  identified  for 
+the immediate and long term 9-1-1 funding problem, attention to the need for tech-
+nological change and evolution of the E–911 system itself is difficult to achieve. 
+
+It  is  important  to  add  here  that  NENA  continues  to  emphasize  the  necessity  of 
+state  coordination  in  the  deployment  of  E–911  services,  regardless  of  service  type. 
+The  importance  of  state  coordination  for  wireless  E–911  has  been  recognized  by 
+Congress  through  the  Wireless  Communications  and  Public  Safety  Act  of  1999  and 
+the  ENHANCE  911  Act  of  2004.  This  has  proven  to  be  a  valid  position  as  states 
+with  a  coordination  entity  are  generally  further  along  in  the  Phase  II  wireless  E–
+911 deployment process. While recognizing that the delivery of 9-1-1 service is man-
+aged  at  the  local  level  and  that  local  PSAPs  have  an  important  role  to  play,  Con-
+gress  and  the  FCC  should  encourage  coordination  at  the  state  level  for  the  deploy-
+ment of IP-enabled E–911 services. 
+Non-Discriminatory Access to Capabilities and Liability Parity 
+
+The  IP-enabled  Voice  Communications  and  Public  Safety  Act  of  2005  requires 
+each  entity  with  ownership  or  control  of  9-1-1  infrastructure,  known  commonly  as 
+E–911 system service providers (SSPs), to provide requesting IP-enabled service pro-
+viders access to the equipment, databases, network and other necessary capabilities 
+on  a  nondiscriminatory  basis.  The  bill  also  provides  immunity  from  liability  to  the 
+same  extent  as  provided  to  local  telephone  exchange  companies  for  providers  of  IP-
+enabled  9-1-1  service.  Additionally,  the  bill  provides  liability  protection  to  users  of 
+such  services  as  well  as  liability  protection  for  PSAPs  to  the  same  extent  they  cur-
+rently have for non-IP enabled services. 
+
+On  the  issue  of  liability  parity,  the  bill  mirrors  the  language  granted  to  wireless 
+carriers, users of wireless service and PSAPs answering 9-1-1 calls that is contained 
+in  the  Wireless  Communications  and  Public  Safety  Act  of  1999.  It  is  important  to 
+note  that  the  Wireless  Act  of  1999  was  passed  before  the  widespread  deployment 
+of Phase I and Phase II wireless, an action that was deemed critical and applauded 
+by  both  the  9-1-1  community  and  industry.  NENA  believes  it  is  also  important  to 
+have  liability  parity  for  IP-enabled  services  enacted  into  law  before  the  quickly  ap-
+proaching 120-day VoIP E–911 deadline of November 28, 2005. 
+
+Past experience in the deployment of E–911 has shown that a lack of legal clarity 
+on important topics, such as liability parity and non-discriminatory access to E–911 
+capabilities,  has  led  to  a  delay  in  the  provisioning  of  E–911  service.  Therefore, 
+NENA  wholeheartedly  supports  both  of  these  provisions  as  we  believe  they  are  es-
+sential to ensure the timely deployment of E–911 for IP-enabled services. 
+Next Generation E–911
+
+As  noted  earlier,  NENA  believes  that  planning  now  for  the  future  9-1-1  system 
+is  of  paramount  importance  and  is  why  we  have  launched  the  NG  E–911  Program. 
+NENA  plans  to  release  a  comprehensive  report  on  the  findings  and  recommenda-
+tions  of  that  initiative  in  early  2006  and  will  communicate  the  results  with  Con-
+gress.  Therefore,  NENA  fully  supports  section  three  of  the  IP-Enabled  Voice  Com-
+munications and Public Safety Act requiring the national 9-1-1 Implementation and 
+Coordination  Office  to  provide  a  plan  for  the  migration  from  today’s  9-1-1  system 
+towards an IP-Enabled emergency network. 
+Timeframe for Action 
+
+We hope that telecom reform will be done this year and will include the important 
+9-1-1 provisions identified here. However, past experience has shown that this type 
+of  reform  can  become  bogged  down  in  negotiations  and  take  longer  than  expected 
+to  complete.  Should  this  happen,  NENA  believes  it  is  very  important  that  the  9-1-
+1  provisions  discussed  here  be  included  in  a  stand-alone  bill,  such  as  a  slightly 
+modified  version  of  the  IP-Enabled  Voice  Communications  and  Public  Safety  Act  of 
+2005, and considered by Congress before the session ends this year. 
+Conclusion 
+
+Our Nation’s 9-1-1 system is a homeland security asset. Everyday 9-1-1 callers are 
+the  eyes  and  ears  of  our  defense.  It  is  also  a  system  that  citizens  depend  on  daily 
+in  times  of  need.  Modern  communications  capabilities  offer  an  opportunity  to  im-
+prove the system as we know it, but they also offer challenges. The 9-1-1 community 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00013 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+10
+
+must  embrace  and  react  to  change  quickly,  to  better  serve  the  American  public,  in-
+dustry,  and  the  mobile  consumer  in  all  emergencies.  We  need  help  from  Congress 
+in doing so. 
+
+NENA fully supports each of the provisions in the IP-Enabled Voice Communica-
+tions  and  Public  Safety  Act  as  they  pertain  to  VoIP  E–911  but  asks  Congress  to 
+broaden the scope of the bill to include any service that provides a communications 
+capability  in  which  a  customer  can  reasonably  expect  to  be  able  to  reach  a  PSAP 
+when dialing 9-1-1. 
+
+With  some  modifications,  the  legislation  will  make  great  contributions  toward 
+public safety and security. On behalf of thousands of NENA members, the 9-1-1 pro-
+fessionals  and  all  involved  in  supporting  their  work,  I  thank  you  for  your  support 
+and the opportunity to be here today.
+
+Senator  BURNS.  Thank  you.  I  forgot  to  announce—if  you  could 
+keep your statements within five minutes—and your full statement 
+will  be  made  part  of  the  record—it  would  certainly  help  us  a  little 
+bit.  But  you’re  just  such  a  nice  fellow,  and  you  had  nice  words  for 
+me, I decided to give you extra minutes. 
+
+Jeffrey  Citron,  Vonage.  He  is  the  Co-founder,  Chairman,  and 
+CEO of Vonage. Mr. Citron, thank you very much for coming today. 
+
+STATEMENT OF JEFFREY CITRON, CHAIRMAN AND CEO, 
+
+VONAGE 
+
+Mr. CITRON. Thank you. Good morning, Senator Burns, Members 
+of the Committee. Thank you very much for the opportunity to ap-
+pear here today. I’m Jeff Citron, CEO of Vonage Holdings Corpora-
+tion.  We  are  the  leading  provider  of  consumer  and  small  business 
+Voice Over IP or VoIP Services in the United States, which nearly 
+one  million  people  are  using  our  service  today.  Vonage  is  at  the 
+forefront  of  this  new  emerging  market,  which  has  approximately 
+2.3  million  users,  and  as  such,  we  are  quickly  becoming  a  leader 
+in E–911. 
+
+As we speak, Vonage is building the first ever nationwide E–911 
+network designed for an all-IP environment. This new network will 
+link hundreds of locally controlled selective routers, and thousands 
+of public safety answering points across the country, allowing us to 
+provide  comprehensive  service.  This  is  a  very  serious  undertaking. 
+At  Vonage,  we  are  embracing  this  challenge  as  a  critical  partner 
+in  the  Nation’s  E–911  system,  as  we  blend  voice  and  data  into  ex-
+citing new offerings. 
+
+Unfortunately,  we  are  also  confronting  long  standing  technical, 
+operational, and competitive barriers, as we try to connect to a sys-
+tem that is nearly obsolete. Vonage’s leading challenge is deploying 
+enhanced  9-1-1  Internet  phone  service  for  all  our  users  as  quickly 
+as  possible.  There  is  no  higher  priority  within  our  organization 
+today. Vonage demonstrated commitment in this area by becoming 
+the  first  mobile  VoIP  provider  to  adopt  a  basic  9-1-1  solution.  We 
+have continued this commitment by offering the first nomadic Voice 
+Over IP E–911 solution in this country. 
+
+Mr.  Chairman,  I’m  here  today  to  make  three  points.  First, 
+Vonage is running very hard and fast to build the best E–911 sys-
+tem that is possible. Second, as an industry, Internet phone service 
+providers face a number of challenges trying to deploy E–911. And 
+third,  I  would  like  to  highlight  what  assistance  Congress  can  lend 
+to ensure the industry deploys a functioning enhanced 9-1-1 service 
+for all of our customers and their communities. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00014 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+11
+
+To  date,  Vonage  has  been  working  diligently  with  many  compa-
+nies,  along  with  public  safety  officials,  to  architect  a  solution  that 
+works well for the entire industry, as well as our customers. Begin-
+ning  at  the  grass  roots  levels  with  public  safety  officials,  Vonage 
+is  already  offering  enhanced  9-1-1  service  in  New  York  City  and 
+Rhode  Island,  and  in  New  York  City  alone,  we  have  fielded  thou-
+sands of successful E–911 calls. 
+
+Despite this great progress thus far, significant challenges do re-
+main.  For  instance,  the  geographically  based  numbering  system  of 
+the original 9-1-1 network is meaningless to Internet-based commu-
+nications.  The  old  9-1-1  system  required  that  all  calls  be  local.  If 
+a  citizen  in  Montana  tried  to  place  a  9-1-1  call  with  a  Montana 
+phone  in  Washington  D.C.,  the  old  9-1-1  system  would  have  re-
+jected this call. 
+
+In order to accommodate that mobility, wireless carriers patched 
+up  the  old  network  to  allow  for  out  of  area  9-1-1  calls  to  go 
+through,  and  this  is  the  exact  same  solution  we  are  trying  to  use 
+for Internet phone calling. 
+
+Furthermore,  VoIP  providers  do  not  have  access  to  all  the  ele-
+ments necessary to create a comprehensive 9-1-1 solution. Such ele-
+ments  include  access  to  selective  routers  in  the  Master  Street  Ad-
+dress  Guide,  also  known  as  MSAG,  as  well  as  ‘‘Pseudo-ANIs,’’ 
+which we need to get calls from non-local phone numbers. 
+
+And because there are no standards for implementation, let alone 
+access to the elements, novel 9-1-1 architectures make it impossible 
+to  implement  a  uniform  nationwide  solution.  Instead,  service  pro-
+viders  like  Vonage  are  forced  to  deploy  a  patchwork  of  local  solu-
+tions to meet the various needs of PSAPs and network owners. Im-
+plementation  of  the  FCC’s  9-1-1  obligation  within  120  days  is  ex-
+tremely challenging. 
+
+We  believe  that  a  standardized  approach  giving  VoIP  providers 
+access to these elements would accelerate our deployment, and cre-
+ate a uniform solution for the entire country. 
+
+Finally, Congressional action and authority can help speed Voice 
+Over  IP  9-1-1  deployment  in  several  key  areas.  Currently  Voice 
+Over  IP  providers  do  not  have  the  same  liability  parity  with 
+wireline or wireless operators. Vonage is not protected by the exist-
+ing  law  in  the  same  way  that  other  carriers  are.  Therefore,  every 
+time  we  send  a  call  to  the  9-1-1  network,  we  are  putting  our  busi-
+ness  at  risk  should  there  be  an  unforeseeable  network  failure  or 
+mishap. 
+
+Additionally,  in  order  to  comply  with  obligations  mandated  by 
+the  FCC  9-1-1  order,  Congress  may  need  to  grant  VoIP  providers 
+access to the network elements necessary to complete the enhanced 
+9-1-1  call.  The  9-1-1  network  is  a  public  trust,  and  should  not  be 
+used as a competitive lever or barrier. 
+
+In  conclusion,  Mr.  Chairman,  Vonage  strongly  believes  it’s  good 
+policy for our customers and for the country for anyone using Voice 
+Over  IP  to  be  able  to  get  help  when  they  need  it  by  dialing  9-1-
+1.  We  also  commend  the  FCC  for  the  decisive  action  mandating  a 
+Voice  Over  IP  E–911  rollout.  We  now  need  Congress  to  act  to  en-
+sure VoIP providers have the tools that are necessary to meet that 
+mandate. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00015 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+12
+
+We  enthusiastically  support  the  IP-Enabled  Voice  Communica-
+tions and Public Safety Act of 2005, as a thoughtful, balanced piece 
+of legislation that would ensure Voice Over providers can get access 
+to the necessary technical elements, legal protections, flexibility, to 
+create the best solution for our customers. 
+
+I  look  forward  to  answering  any  questions  that  you  might  have, 
+
+and thank you for the opportunity to speak here today. 
+
+[The prepared statement of Mr. Citron follows:]
+PREPARED STATEMENT OF JEFFREY CITRON CO-FOUNDER, CHAIRMAN, AND CEO, 
+
+VONAGE 
+
+Good  morning  Senator  Burns  and  Members  of  the  Committee.  Thank  you  for  the 
+opportunity to appear here today. I’m Jeffrey Citron, CEO of Vonage Holdings Cor-
+poration.  We  are  the  leading  provider  of  consumer  and  small  business  Voice  over 
+Internet Protocol (VoIP) services in the United States, with nearly one million sub-
+scriber lines. Vonage is at the forefront of this new emerging market, which has ap-
+proximately  2.3  million  users,  and  as  such  we  are  also  quickly  becoming  a  leader 
+in  E–911,  as  we  move  to  deploy  the  first  ever  nationwide  9-1-1  service.  This  will 
+be the first 9-1-1 service designed for an IP environment, across hundreds of locally 
+controlled Selective Routers and thousands of Public Safety Answering Points. This 
+is  a  serious  undertaking.  And  we  at  Vonage  are  embracing  this  challenge  not  just 
+for  our  customers  but  as  a  partner  in  the  Nation’s  E–911  system.  As  we  move  for-
+ward  in  this  exciting  time  in  9-1-1,  VoIP  is  helping  turn  the  notion  of  traditional 
+9-1-1  networking  on  its  head.  We  are  recognizing  new  opportunities  to  blend  voice 
+and data into exciting new offerings, but we are also confronting long-standing tech-
+nical,  operational  and  competitive  barriers,  as  we  try  to  connect  to  a  system  that 
+all too often is obsolete and sheltered by old-fashioned telecom thinking. 
+
+To that end, Vonage is leading the charge to deploy Enhanced 911 Internet phone 
+services for all of our users as quickly as possible. There is no higher priority within 
+Vonage today. Vonage demonstrated commitment in this area by becoming the first 
+mobile  VoIP  provider  to  adopt  a  basic  9-1-1  solution,  and  we  will  further  this  com-
+mitment by offering the first nomadic VoIP E–911 solution in this country. 
+
+Mr.  Chairman,  I  am  here  today  to  make  three  points.  First,  Vonage  is  running 
+hard and fast to build the best 9-1-1 system possible. Second, as an industry, Inter-
+net  phone  providers  face  a  number  of  challenges  in  trying  to  deploy  Enhanced  911. 
+These challenges are similar to those faced by wireless companies when they began 
+offering  E–911  services  over  ten  years  ago.  Finally,  I  would  like  to  highlight  what 
+assistance Congress can lend to ensure the industry deploys a functioning Enhanced 
+911 service for our customers and their communities. 
+
+To  date,  Vonage  has  been  working  diligently  with  the  technology  companies, 
+Bells,  CLECs  and  public  safety  officials  to  architect  a  solution  that  works  well  for 
+the  industry  and  our  customers.  Working  at  the  grassroots  level  with  public  safety 
+officials,  Vonage  is  already  offering  Enhanced  911  service  in  New  York  City  and 
+Rhode  Island.  In  New  York  City  alone,  we  have  already  fielded  thousands  of  suc-
+cessful  E–911  calls.  We  recently  signed  a  contract  with  SBC  to  gain  access  to  the 
+9-1-1  elements  we  need  throughout  their  13-state  territory  to  begin  offering  E–911 
+in  SBC’s  footprint.  Vonage  is  also  working  with  Level  3  on  a  nationwide  basis  to 
+use  their  existing  network  to  route  calls  to  the  E–911  system.  With  our  technology 
+partners  TCS  and  Intrado,  Vonage’s  9-1-1  solution  enables  calls  to  go  to  the  right 
+9-1-1 answering center even when our users change physical location. Perhaps most 
+importantly,  last  month  Vonage  initiated  an  outreach  program  to  begin  a  dialogue 
+with  the  public  safety  community  regarding  our  plans  to  implement  a  novel  E–911 
+solution within a very short timeframe. 
+
+Despite  this  great  progress  thus  far,  significant  challenges  remain.  For  instance, 
+the  geographically-based  numbering  system  of  the  original  9-1-1  network  is  mean-
+ingless  to  Internet-based  communications.  The  old  9-1-1  system  required  that  all 
+calls  be  ‘‘local.’’  If  a  citizen  from  Montana  tried  to  place  a  wireless  9-1-1  with  her 
+Montana  phone  in  Washington  DC,  the  old  9-1-1  system  would  have  rejected  that 
+call.  In  order  to  accommodate  that  mobility,  we  patched  the  network  to  allow  for 
+‘‘dummy  numbers’’  to  get  those  out  of  area  9-1-1  calls  through.  This  is  the  exact 
+same solution we’re using for Internet phone calls, but in order to make it work for 
+us, we need access to the same technical elements that wireless companies use. 
+
+Furthermore,  VoIP  providers  do  not  have  access  to  all  the  elements  necessary  to 
+create  a  comprehensive  9-1-1  solution.  Such  elements  include  access  to  selective 
+routers  and  the  Master  Street  Address  Guide  (MSAG),  as  well  as  ‘‘Psuedo-ANI’’ 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00016 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+13
+
+(dummy  numbers)  which  we  need  to  get  calls  from  non-local  numbers  into  the  9-
+1-1 system. And because there are no standards for implementation, let alone access 
+to  elements,  novel  9-1-1  architectures  make  it  impossible  to  implement  a  uniform 
+nationwide  solution.  Instead,  service  providers  like  Vonage  are  forced  to  deploy  a 
+patchwork  of  local  solutions  to  meet  the  various  needs  of  PSAPs  and  network  own-
+ers,  making  the  implementation  of  the  FCC’s  9-1-1  obligation  within  120  days  dif-
+ficult  if  not  impossible.  We  believe  that  a  standardized  approach  giving  VoIP  pro-
+viders  access  to  these  elements  would  accelerate  our  deployment  and  create  a  uni-
+form solution for the entire country. 
+
+Finally, Congressional action and authority can help speed VoIP 9-1-1 deployment 
+in  several  key  areas.  Currently,  VoIP  providers  do  not  have  liability  parity  with 
+wireline or wireless operators. Vonage is not protected by existing laws in the same 
+way  other  carriers  are—therefore  every  time  we  send  a  call  into  the  9-1-1  network 
+we  are  putting  our  business  at  risk  should  there  be  an  unforeseeable  network  fail-
+ure or other mishap. Right now, the burden is singularly the VoIP provider’s to bear 
+should something go wrong. 
+
+Additionally,  in  order  to  comply  with  the  obligations  mandated  by  the  FCC’s  9-
+1-1 Order, Congress may need to grant VoIP providers access to all the network ele-
+ments  necessary  to  complete  an  Enhanced  911  call.  The  9-1-1  network  is  a  public 
+trust, and should not be used as a competitive lever. 
+
+In conclusion Mr. Chairman, Vonage strongly believes it is good policy for our cus-
+tomers  and  the  country  for  anyone  using  a  VoIP  application  to  be  able  to  get  help 
+when they need it by dialing 9-1-1. 
+
+We  also  commend  the  FCC  for  their  decisive  action  in  mandating  an  aggressive 
+timetable for VoIP E–911 rollout. We now need Congress to act to ensure VoIP pro-
+viders  have  the  tools  necessary  to  meet  that  mandate.  We  enthusiastically  support 
+the  IP-Enabled  Voice  Communications  and  Public  Safety  Act  of  2005  as  a  thought-
+ful,  balanced  piece  of  legislation  that  would  ensure  VoIP  providers  can  get  access 
+to  the  necessary  technology  elements,  legal  protections  and  flexibility  to  create  the 
+best solution for our customers. 
+
+I look forward to answering any questions you may have. Thank you.
+SENATOR BURNS.  Thank  you  very  much.  I’ve  got  a  couple  ques-
+tions  coming  off  that  statement.  Next  we  have  Ms.  Wanda 
+McCarley, who is with APCO. Thank you for coming today. 
+STATEMENT  OF  WANDA  MCCARLEY,  PRESIDENT–ELECT  OF 
+THE  ASSOCIATION  OF  PUBLIC–SAFETY  COMMUNICATIONS 
+OFFICIALS–INTERNATIONAL (APCO) 
+Ms.  MCCARLEY.  Thank  you,  Senator  Burns,  for  the  opportunity 
+to appear at this hearing today to discuss the critical issue of Voice 
+Over  Internet  Protocol  services,  and  their  impact  on  the  provision 
+of 9-1-1 service by our Nation’s public safety answering points. 
+
+I am the President-Elect of the Association of Public Safety Com-
+munications Officials International, known as APCO, a professional 
+association  of  over  16,000  individuals  who  manage  and  operate 
+public  safety  communications  systems  for  state  and  local  govern-
+ment  agencies  across  our  Nation.  APCO  has  long  been  an  active 
+participant  in  FCC  proceedings  and  Congressional  actions  con-
+cerning  public  safety  communications,  addressing  both  radio  spec-
+trum  issues,  and  Enhanced  9-1-1  issues,  that  impact  the  oper-
+ational  requirements  of  PSAPs,  and  the  ability  of  emergency  per-
+sonnel to respond quickly and accurately to 9-1-1 calls. 
+
+I  am  also  the  operations  and  training  manager  for  the  Tarrant 
+County  9-1-1  District  in  Fort  Worth,  where  I  work  day  to  day  on 
+the challenges facing PSAPs. 
+
+APCO has long been deeply concerned with the ability of PSAPs 
+to  respond  effectively  to  9-1-1  calls  made  through  Voice  Over  IP 
+providers.  Early  on,  there  were  problems  with  Voice  Over  IP  calls 
+being routed to the wrong PSAP, in some areas to PSAPs in distant 
+states. Some Voice Over IP providers adopted a strategy of routing 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00017 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+14
+
+9-1-1  calls  to  PSAPs’  ten-digit  emergency  or  administrative  num-
+bers.  However,  these  administrative  numbers  are  not  usually  an-
+swered  by  trained  9-1-1  call  takers.  Indeed  calls  to  these  adminis-
+trative  numbers  often  go  to  voice  mail  systems  with  a  taped  mes-
+sage informing callers to hang up and dial 9-1-1 if this is an emer-
+gency. 
+
+Unfortunately,  that  inability  to  get  through  to  a  9-1-1  call  taker 
+from  a  Voice  Over  IP  phone  has  led  to  dangerous  delays  in  dis-
+patching  emergency  personnel,  and  as  described  in  recent  testi-
+mony before the FCC, tragic, and perhaps avoidable deaths in cer-
+tain instances. 
+
+In May, the FCC addressed this problem with firm but fair rules 
+to ensure that Voice Over IP 9-1-1 calls will be delivered to the cor-
+rect PSAPs, with the location information necessary for rapid emer-
+gency  responses.  APCO  applauds  FCC  Chairman  Martin  and  his 
+colleagues for this critical and courageous decision. Absent FCC ac-
+tion,  we  would  still  be  searching  for  solutions  to  protect  the  safety 
+of  a  growing  number  of  Voice  Over  IP  subscribers,  most  of  whom 
+choose  their  telephone  service  without  realizing  the  potential  dif-
+ficulties of calling 9-1-1, and receiving emergency assistance. 
+
+Of  course,  still  more  needs  to  be  done.  The  definition  of  Voice 
+Over  IP  services  covered  by  the  new  rules  may  need  to  be  refined, 
+and  we  need  to  find  ways  for  call  location  information  to  be  pro-
+vided  automatically  without  caller  intervention.  We  also  need  to 
+find  ways  to  locate  Voice  Over  IP  callers  who  interconnect  to  the 
+Internet from different physical locations. The FCC is currently ex-
+amining  these  issues,  and  we  urge  the  Commission,  Voice  Over  IP 
+providers, and the public safety community to work together to find 
+solutions  as  quickly  as  possible.  We  commend  those  Voice  Over  IP 
+providers who are working cooperatively toward these goals. 
+
+APCO  also  believes  that  Congress  and  the  FCC  should  look  into 
+the future, and adopt a rule to ensure that yet to be developed tele-
+phone  technologies  will  be  subject  to  appropriate  9-1-1  require-
+ments.  Unfortunately,  Voice  Over  IP  took  off  in  the  marketplace 
+before  necessary  9-1-1  protections  could  be  adopted.  That  left  the 
+public  at  risk,  even  while  they  were  enjoying  the  fruits  of  the  new 
+technology.  APCO  believes  that  all  voice  communications  that 
+interconnect  with  the  public  switched  telephone  network,  and  use 
+standard telephone numbering, must provide full E–911 capability. 
+We know some have urged that PSAPs upgrade their systems to 
+IP  technology.  While  APCO  strongly  supports  technological  im-
+provement to PSAPs, we urge extreme caution. First, under no cir-
+cumstances  should  the  current  state  of  PSAP  technology  serve  as 
+an  excuse  for  non-compliance  by  providers  of  Voice  Over  IP  and 
+other  telephone  services.  These  services  should  be  required  to  de-
+liver 9-1-1 calls to the existing PSAP networks. 
+
+Secondly,  calls  for  PSAP  system  upgrades  overlook  the  funda-
+mental financial constraints facing PSAPs. Most operate on limited 
+budgets,  with  funding  coming  from  either  subscriber  fees,  or  local 
+government appropriations. Either way, most PSAPs can not afford 
+the  enormous  cost  of  switching  to  IP-based  technologies.  Thus  any 
+discussion  of  upgrading  PSAP  capability  must  be  accompanied  by 
+discussions for full funding for these upgrades. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00018 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+15
+
+Overall,  funding  for  PSAPs  is  another  critical  issue  that  we  be-
+lieve  Congress  needs  to  help  us  address.  It  is  essential  that  there 
+continues  to  be  a  reliable  source  of  funding  for  PSAPs  even  as  we 
+move  toward  new  forms  of  telephone  communications.  One  way  or 
+another,  all  users  of  the  telephone  network  who  might  someday 
+need  to  call  9-1-1  must  contribute  towards  the  cost  of  providing  9-
+1-1 services. 
+
+APCO  has  created  a  task  force  to  examine  the  future  funding 
+challenges  for  PSAPs,  and  has  prepared  a  white  paper  on  sustain-
+able  funding  models  for  emergency  telecommunications  across  the 
+country, which we would be happy to make available. 
+
+Senator  Burns,  I  want  to  sincerely  thank  you  again  for  the  op-
+portunity  to  appear  at  this  important  field  hearing.  APCO  looks 
+forward to working with you and other Members of the Committee, 
+and  other  members  of  the  public  safety  community,  in  addressing 
+this and other critical public safety issues. 
+
+[The prepared statement of Ms. McCarley follows:]
+
+PREPARED STATEMENT OF WANDA MCCARLEY,  PRESIDENT-ELECT OF
+
+THE
+ASSOCIATION OF PUBLIC-SAFETY COMMUNICATIONS OFFICIALS-INTERNATIONAL 
+(APCO) 
+Thank  you  Senator  Burns  for  the  opportunity  to  appear  at  this  hearing  today  to 
+discuss the critical issue of Voice over Internet Protocol (VoIP) services and the im-
+pact of those services on the provision of 9-1-1 services by our Nation’s public safety 
+answering points (PSAPs). 
+
+I am here today in my capacity as the president-elect of the Association of Public-
+Safety  Communications  Officials-International,  known  as  APCO,  a  professional  as-
+sociation  of  over  16,000  individuals  who  manage  and  operate  public  safety  commu-
+nications systems for state and local government agencies across the Nation. APCO 
+has  long  been  an  active  participant  in  FCC  proceedings  and  congressional  actions 
+concerning public safety communications, addressing both radio spectrum issues and 
+Enhanced  9-1-1  (‘‘E–911’’)  matters  that  impact  the  operational  requirements  of 
+PSAPs and the ability of emergency personnel to respond quickly and accurately to 
+9-1-1 calls. 
+
+I  am  also  here  today  as  the  Operations  and  Training  Manager  for  the  Tarrant 
+County,  Texas  9-1-1  District  where  I  work  day-to-day  on  the  challenges  facing 
+PSAPs. 
+
+APCO has long been deeply concerned with the ability of PSAPs to respond effec-
+tively  to  9-1-1  calls  made  through  VoIP  providers.  Early  on,  there  were  problems 
+with VoIP calls being routed to the wrong PSAP, in some cases to PSAPs in distant 
+states.  Some  VoIP  providers  adopted  a  strategy  of  routing  ‘‘9-1-1’’  calls  to  PSAPs’ 
+ten-digit administrative numbers. In may cases, however, those administrative num-
+bers are not answered by trained 9-1-1 call-takers. Indeed, calls to those administra-
+tive  numbers  often  go  into  voice-mail,  with  a  taped  message  informing  callers  to 
+‘‘hang  up  and  dial  9-1-1  if  this  is  an  emergency.’’  Unfortunately,  that  inability  to 
+get  through  to  a  9-1-1  call-taker  from  a  VoIP  phone  has  led  to  dangerous  delays  in 
+dispatching  emergency  personnel  and,  as  was  described  in  recent  testimony  before 
+the FCC, tragic and perhaps avoidable deaths in several instances. 
+
+In  May,  the  FCC  addressed  this  problem  with  firm,  but  fair  rules  to  ensure  that 
+VoIP 9-1-1 calls will be delivered to the correct PSAPs with the location information 
+necessary  for  rapid  emergency  responses.  APCO  applauds  FCC  Chairman  Martin 
+and  his  colleagues  for  this  critical  decision.  Absent  FCC  action,  we  would  still  be 
+searching  for  solutions  to  protect  the  safety  of  the  growing  number  of  VoIP  sub-
+scribers, most of whom choose their telephone service without realizing the potential 
+difficulties of calling 9-1-1 and receiving emergency assistance. 
+
+Of course, still more needs to be done. The definition of VoIP services covered by 
+the new rules need to be refined, and we need to find ways for call-location informa-
+tion  to  be  provided  automatically,  without  caller  intervention.  We  also  need  to  find 
+ways to locate VoIP callers who interconnect to the Internet from different physical 
+locations.  The  FCC  is  currently  examining  these  issues,  and  we  urge  the  Commis-
+sion, VoIP providers and the public safety community to work together to find solu-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00019 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+16
+
+tions  as  quickly  as  possible.  We  commend  those  VoIP  providers  who  have  elected 
+to work cooperatively with public safety towards this goal. 
+
+APCO  also  believes  that  Congress  and  the  FCC  should  look  into  the  future,  and 
+adopt  a  rule  to  ensure  that  yet-to-be  developed  telephone  technologies  will  be  sub-
+ject  to  appropriate  9-1-1  requirements.  Unfortunately,  VoIP  took  off  in  the  market-
+place before necessary 9-1-1 protections could be adopted by the FCC. That left the 
+public at risk, even while they were enjoying the fruits of the new technology. APCO 
+believes  that  all  voice  communications  services  that  interconnect  with  the  public-
+switched telephone and use standard telephone numbering must provide full E–911 
+capability. 
+
+We  know  that  some  have  urged  that  PSAPs  upgrade  their  systems  to  IP  tech-
+nology.  While  APCO  strongly  supports  technological  improvements  for  PSAPs,  we 
+urge  extreme  caution.  First,  under  no  circumstances  should  the  current  state  of 
+PSAP  technology  serve  as  an  excuse  for  non-compliance  by  providers  of  VoIP  or 
+other  ‘‘new’’  telephone  services.  Those  services  should  be  required  to  deliver  9-1-1 
+calls  to  the  existing  PSAP  networks.  Second,  calls  for  PSAP  system  upgrades  over-
+look  the  fundamental  financial  constraints  facing  PSAPs.  Most  operate  on  limited 
+budgets with funding coming either from subscriber fees or local government appro-
+priations.  Either  way,  most  PSAPs  (many  who  have  just  completed  upgrades  to  ac-
+cept  wireless  E–911  calls)  cannot  afford  the  enormous  cost  of  switching  to  IP-based 
+technologies.  Thus,  any  discussion  of  upgrading  PSAP  capability  must  be  accom-
+panied by discussions of full funding for those upgrades. 
+
+Overall,  funding  for  PSAPs  is  another  critical  issue  that  we  believe  Congress 
+needs  to  help  address.  It  is  essential  that  there  continues  to  be  a  reliable  source 
+of funding for PSAPs even as we move towards new forms of telephone communica-
+tion.  One  way  or  another,  all  users  of  the  telephone  network  who  might  someday 
+need  to  call  9-1-1  must  contribute  towards  the  cost  of  providing  9-1-1  services. 
+APCO has created a task force to examine the future funding challenges for PSAPs, 
+and  has  prepared  a  white  paper  on  sustainable  funding  models  for  emergency  tele-
+communications  across  the  country.  I  would  be  happy  to  make  copies  of  this  white 
+paper available to the Committee. 
+
+Senator  Burns,  I  want  to  thank  you  again  for  this  opportunity  to  appear  at  this 
+important  field  hearing.  APCO  looks  forward  to  working  with  you  and  other  Mem-
+bers of the Committee in addressing this and other critical public safety issues.
+
+Senator  BURNS.  Thank  you  for  your  testimony.  Mr.  Greg  Rohde, 
+who  is  Executive  Director  of  the  E–911  Institute.  Thank  you  for 
+coming. 
+
+STATEMENT OF GREG ROHDE, EXECUTIVE DIRECTOR, E–911 
+
+INSTITUTE 
+
+Mr. ROHDE. Thank you for inviting me here to testify. I really ap-
+preciate the invitation to testify here at this field hearing. It’s very 
+fitting  that  this  hearing  is  being  held  on  the  first  day  of  National 
+Preparedness  Month.  In  my  judgment,  access  to  E–911  services  is 
+a  fundamental  component  of  community  preparedness.  For  our 
+country  to  receive  a  sufficient  level  of  nationwide  preparedness, 
+we’re going to need to have universal access to E–911 services. 
+
+The legislation which is the subject matter of this hearing really, 
+as you know, parallels action by the FCC earlier this year in June 
+that  requires  VoIP,  providers  of  VoIP  services  to  provide  access  to 
+E–911 capabilities to their subscribers. 
+
+But  you  also  know  it  goes  further.  In  particular,  the  legislation 
+addresses two areas that the FCC asserted it did not have author-
+ity  to  address.  One  area  is  the  area  of  liability  protection;  and  the 
+second  is  the  area  of  requiring  access  to  emergency  services  infra-
+structure,  such  as  selected  routers,  on  the  part  of  VoIP  providers. 
+In  my  judgment,  both  these  areas  are  necessary  for  successful 
+implementation of E–911 over IP-enabled communications systems, 
+and these provisions, as well as other provisions, really make your 
+legislation necessary. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00020 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+17
+
+I’ll restrict my comments to making just three brief points about 
+the  legislation  itself.  One  is:  I  would  like  comment  on  a  provision 
+which is probably overshadowed by many of the other provisions in 
+the Act, and that is the provision that requires the new Joint Pro-
+gram  Office  that  was  established  in  the  ENHANCE  9-1-1  Act  en-
+acted  last  year,  to  provide  a  national  migration  plan  for  IP  emer-
+gency communications systems. 
+
+While  the  provision  might  be  overshadowed,  it  might  very  well 
+be in the long run the most significant provision in your legislation, 
+requiring the Administration to begin establishing a migration plan 
+for  citizen  activated  national  IP-based  communications  system  is 
+badly needed, and the time to develop it is now. 
+
+Certainly what gets the headlines, and what gets most of the at-
+tention,  are  the  aspects  of  this  issue  with  respect  to  the  relation-
+ship  between  E–911  and  VoIP  services  are  on  the  challenges  that 
+such relationships impose on the existing system. Those challenges 
+need to be overcome, and is clearly a top priority. 
+
+However, that’s not the whole story. The other piece of the story 
+is  we  can’t  forget  that  moving  to  an  IP-based  communications  sys-
+tem  provides  an  enormous  opportunity  to  get  ahead  of  the  game, 
+and  potentially  provide  significant  new  opportunities  and  tools  for 
+public safety and citizens to respond to emergencies. 
+
+So  I  really  applaud  the  foresightfulness  of  the  legislation,  and 
+the  fact  you  appreciate  the  fact  that  IP  communications  systems 
+can  in  the  long  term  greatly  enhance  public  safety.  We  cannot 
+leave  the  emergency  communications  systems  in  the  country  in  a 
+perpetual  state  of  playing  catch-up.  We  have  an  opportunity  now 
+to  get  ahead  of  the  game,  and  pushing  the  Administration  to  de-
+velop a plan is essential. 
+
+In  addition  to  pushing  your  legislation  and  this  provision,  I 
+would also suggest you consider ways to commit more resources to 
+either  the  Joint  Program  Office,  or  to  the  Institute  for  Tele-
+communications  Sciences,  the  research  lab  of  the  National  Tele-
+communications  Information  Administration.  Both  or  either  of 
+these entities and the Federal industry can work cooperatively with 
+industry on public safety, and really develop an effective migration 
+plan. 
+
+My second point is on the provision that requires the FCC to es-
+tablish  requirements  and  obligations  for  IP-enabled  voice  service 
+providers to ensure that the customers have access to 9-1-1 and E–
+911 services. As I stated before, the FCC has already taken this ac-
+tion.  The  FCC  deserves  an  enormous  amount  of  credit.  I  think  to 
+a person, all four of the existing Commissioners are very dedicated 
+to  public  safety,  and  work  very  hard  to  take  this  very  important 
+step. 
+
+However,  this  particular  requirement  is  so  important  that  it 
+should  not  be  left  to  a  regulatory  rule.  I  think  that  it’s  necessary 
+for it to become a matter of statute. As you know, commissions can 
+change,  new  players  can  come  in.  We  don’t  want  to  have  the  cir-
+cumstance of a future commission revisiting this issue. So it should 
+be made a matter of statute. 
+
+I  also  suspect  that  the  deadline  set  by  the  FCC  for  compliance 
+is going to be less a finish line, and more the beginning of the end. 
+As  we  learned,  and  as  we  are  currently  learning  in  the  implemen-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00021 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+18
+
+tation  of  wireless  E–911  services,  that  you  simply  can’t  impose 
+deadlines  and  expect  it  to  happen.  The  FCC  is  going  to  have  to 
+manage  compliance,  not  simply  assert  it,  and  it’s  going  to  work 
+carefully  with  industry,  and  need  to  maintain  flexibility  in  impos-
+ing and enforcing the rules, but allow the industry to have a flexi-
+ble way of achieving those rules. 
+
+This  industry  in  particular  is  characterized  by  rapid  change  and 
+innovation,  and  should  allow  and  foresee  that  as  an  opportunity, 
+not as a problem. 
+
+My third and final point is the issue of definitions—telecommuni-
+cations  versus  information  services.  In  my  judgment,  there  we  do 
+have  a  circumstance  of  regulatory  failure.  The  regulators  are  in 
+part responsible for problems that we’ve had, and some of the early 
+headlines  we’ve  seen  of  citizens  calling  9-1-1  and  VoIP  not  being 
+able to connect. 
+
+The reason why is the FCC. The regulators have allowed the pro-
+viders  to  hide  under  the  shroud  of  calling  themselves  an  informa-
+tion  service,  when  in  truth  they  are  a  telecommunications  service. 
+As you know, Senator, it’s very clear from the letter of intent of the 
+1996  Telecommunications  Act,  there  was  no  such  thing  as  a  dis-
+tinction  between  voice  and  data  service.  The  FCC  over  the  past 
+several  years  has  pursued  an  agenda  to  create  escape  hatches  out 
+of the statute. 
+
+I  would  suggest  that  you  consider,  either  as  part  of  this  legisla-
+tion  or  some  other  legislation  considered  by  the  Commerce  Com-
+mittee, that you address this issue head on, and clarify to the Com-
+mission that any service that is sold, and functions, and looks, and 
+acts like traditional telephone voice service is a telecommunications 
+service, period. 
+
+With that, I’d be happy to answer any questions. 
+[The prepared statement of Mr. Rohde follows:]
+
+PREPARED STATEMENT OF GREGORY L. ROHDE, EXECUTIVE DIRECTOR, E–911 
+
+INSTITUTE 
+
+Introduction 
+
+Senator  Burns,  thank  you  very  much  for  inviting  me  to  testify  at  this  field  hear-
+ing today on S. 1063, the ‘‘IP-Enabled Voice Communications and Public Safety Act 
+of  2005.’’  It  is  very  fitting  that  this  hearing  is  being  held  on  the  first  day  of  ‘‘Na-
+tional  Preparedness  Month.’’  The  nationwide  emergency  call  number,  9-1-1,  is  the 
+citizens’  link  to  emergency  response.  In  my  judgment,  access  E–911  (enhanced  9-1-
+1) services is a fundamental component of community preparedness. For our country 
+to  achieve  a  sufficient  level  of  nationwide  preparedness,  we  need  universal  access 
+to  E–911  services.  Addressing  the  challenges  in  implementing  E–911  over  IP-based 
+communications systems is one of the many issues that require the attention of Con-
+gress and regulators at the Federal and state levels to advance public safety. 
+
+My  name  is  Gregory  L.  Rohde  and  I  serve  as  the  Executive  Director  of  the  E–
+911 Institute. The Institute is a not-for-profit organization and, as you know, works 
+closely  with  the  Congressional  E–911  Caucus,  which  you  co-chair  with  your  col-
+leagues, Senator Hillary Clinton (D–NY), Representative John Shimkus (R–IL), and 
+Representative  Anna  Eshoo  (D–CA).  The  Institute  is  not  an  advocacy  organization 
+and  my  work  for  the  organization  is  completely  voluntary,  i.e.,  without  compensa-
+tion.  My  testimony  today  reflects  my  personal  views  and  I  am  not  advocating  any 
+particular position on behalf of the E–911 Institute members. 
+
+The  E–911  Institute  has  approximately  600  members  from  around  the  country. 
+Our  membership  includes  individuals  from  the  public  safety  community,  first  re-
+sponders,  academics,  industry  professionals,  and  government  officials  at  the  local, 
+state, and Federal levels. We conduct educational events for policymakers, including 
+community  forums  done  in  conjunction  with  our  affiliation  with  the  Citizen  Corps 
+program in the U.S. Department of Homeland Security. Our funding comes entirely 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00022 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+19
+
+from donations from our members and organizations which share our mission to ad-
+vance E–911 through education and awareness efforts. 
+General Comments on S. 1063
+
+2005 would: 
+
+As  introduced,  the  IP-Enabled  Voice  Communications  and  Public  Safety  Act  of 
+• Require  the  Federal  Communications  Commission  (FCC)  to  ‘‘establish  re-
+quirements  or  obligations  on  providers  on  IP-enabled  voice  service  to  ensure 
+that  9-1-1  and  E–911  services  are  available  to  customers  of  IP-enabled  voice 
+services;’’
+• Require  IP-enabled  voice  providers  to  notify  their  customers  if  their  service 
+cannot provide 9-1-1 or E–911 service; 
+• Require  entities  which  own  or  control  the  ‘‘necessary  emergency  services  in-
+frastructure’’  to  provide  non–discriminatory  access  to  IP-enabled  voice  service 
+providers; 
+• Establish liability immunity related to IP-enabled voice service that is on par 
+with  liability  protections  afforded  to  9-1-1  service  over  wireless  or  traditional 
+landline telephone service; and 
+• Require the Joint Program Office established under the ENHANCE 911 Act 
+to develop a plan for migrating from the existing 9-1-1 system to a national IP-
+enabled emergency network. 
+
+This legislation parallels the recent action by the FCC in June of this year requir-
+ing  interconnected  VoIP  (Voice  over  Internet  Protocol)  service  providers  to  provide 
+E–911  capabilities  to  their  subscribers,  but  it  also  goes  further.  In  particular,  the 
+legislation  addresses  two  areas  which  the  FCC  asserted  it  lacked  authority:  (1)  li-
+ability protection and (2) requiring access to emergency services infrastructure such 
+as  selective  routers.  In  my  judgment,  both  these  areas  are  necessary  to  ensure  a 
+successful  implementation  of  E–911  over  IP-enabled  voice  service  systems.  This 
+makes  your  legislation  necessary  and  would  complement  the  actions  already  taken 
+by  the  FCC  to  require  9-1-1  and  E–911  over  IP-enabled  telecommunications  sys-
+tems. 
+National Migration Plan Requirement 
+
+One  unique  provision  in  your  legislation  which  merits  further  discussion  at  this 
+hearing  is  the  provision  requiring  the  establishment  of  a  national  migration  plan 
+for an IP-enabled emergency communications system. While the provision to require 
+the Joint Program Office to establish a plan to migrate to an IP-enabled emergency 
+communications  system  may  be  overshadowed  by  other  provisions  in  S.  1063,  it 
+could  become  one  of  the  most  significant  aspects  of  your  legislation.  Until  recently, 
+E–911  issues  have  received  little  Federal  attention.  The  work  of  the  Congressional 
+E–911  Caucus,  including  the  successful  passage  and  enactment  of  the  ENHANCE 
+911  Act,  has  helped  to  elevate  the  discussion  of  E–911  issues  at  the  Federal  level. 
+Requiring the Administration to begin establishing a migration plan for a citizen ac-
+tivated  national  IP-based  emergency  communications  system  is  badly  needed  and 
+the time to develop such a plan is now. 
+
+Much  of  the  focus  on  E–911  issues  with  respect  to  IP-enabled  communications 
+systems  is  centered  on  the  challenges  that  IP-enabled  systems  impose  on  the  cur-
+rent  9-1-1  emergency  call  number  system.  Indeed,  there  are  significant  issues  that 
+must  be  addressed  and  the  ‘‘near  term’’  issues  of  ensuring  E–911  access  over  the 
+current  generation  of  VoIP  systems  is  a  top  priority.  Consumers  expect  that  any 
+service  which  is  sold  to  them  as  a  ‘‘telephone  service’’  will  be  able  to  connect  to  9-
+1-1 and Federal and state regulators should not allow a voice communications serv-
+ice to be sold to the public without such capability. 
+
+However,  the  story  of  how  E–911  relates  to  the  IP-enabled  communications  sys-
+tem  is  not  limited  only  to  the  challenges  VoIP  E–911  imposes  on  the  existing  sys-
+tem.  As  we  address  these  immediate  challenges,  we  cannot  lose  sight  of  the  poten-
+tial  benefits  and  enhancements  that  IP-enabled  communications  systems  can  mean 
+for emergency communications. Significant research and development efforts are un-
+derway  which  explore  the  next  generation  9-1-1  systems  that  could  be  created  on 
+an IP-based system. Such a system, if developed and deployed effectively, could pro-
+vide  citizens,  call  centers,  and  first  responders  with  greatly  enhanced  tools  to  ad-
+dress calls for help via 9-1-1. 
+
+I applaud your insightfulness to be forward looking and to appreciate the fact that 
+IP-enabled  communications  systems  can,  in  the  long-term,  greatly  enhance  public 
+safety  communications.  Pushing  the  Joint  Program  Office  to  explore  these  capabili-
+ties  and  develop  a  national  plan  is  the  right  step  to  take  at  this  point  in  time.  We 
+do  have  an  opportunity  to  get  ahead  of  the  game.  Our  emergency  communications 
+systems  should  not  remain  in  a  perpetual  state  of  ‘‘catch  up.’’  The  proliferation  of 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00023 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+20
+
+broadband  access  and  the  emergence  of  new  IP-enabled  applications  such  as  VoIP 
+are  creating  an  opportunity  to  build  a  better,  more  capable  system  that  enhances 
+public safety. Thoughtful planning, at the Federal level working in cooperation with 
+local, state, and tribal officials is a necessary first mover towards this objective. 
+
+In  addition  to  pressing  the  Joint  Program  Office,  as  provided  in  S.  1063,  to  de-
+velop  a  migration  plan  for  the  next  generation  E–911  system,  I  would  suggest,  in 
+addition, that you consider ways to commit more Federal resources for research and 
+development  of  IP-enabled  emergency  communications  systems  through  appro-
+priating funds to the Joint Program Office and/or to the Institute for Telecommuni-
+cations  Sciences  (ITS),  the  research  laboratory  of  the  National  Telecommunications 
+and Information Administration (NTIA). Either ITS or the Joint Program Office can 
+work  cooperatively  with  public  safety,  industry,  and  academia  to  develop  the  next 
+generation 9-1-1 system that is IP-based and provides greatly enhanced capabilities 
+than the present system today. 
+E–911 Access Requirements for IP-Enabled Services 
+
+Section  2  of  S.  1063  requires  the  FCC  to  establish  requirements  and  obligations 
+on  IP-enabled  voice  service  providers  to  ensure  that  their  customers  have  access  to 
+9-1-1 and E–911 services. While the FCC has already taken this action under their 
+authority, making this a statutory requirement is very important. The current FCC 
+displayed admirable leadership in taking this action, but it is still only a regulation 
+that  could  be  changed  at  a  later  point  in  time.  A  mandate  to  provide  access  to  E–
+911  over  IP-enabled  voice  communications  systems  is  important  enough  that  it 
+should  be  a  requirement  in  the  statute.  Going  forward,  the  FCC’s  role  should  be  to 
+manage the implementation of this requirement and not to entertain considerations 
+and appeals to reverse course. 
+
+I  suspect  that  the  deadline  set  by  the  FCC  for  compliance  is  going  to  be  less  a 
+finish  line  and  more  the  beginning  of  the  end.  As  we  have  learned  from  the  FCC’s 
+attempt  to  implement  wireless  E–911,  achieving  the  goal  is  more  complicated  than 
+simply  setting  deadlines.  There  are  technological  limitations  and  the  ability  of  pro-
+viders to meet the requirements changes as technology develops. 
+
+The  FCC  needs  to  manage  compliance,  not  simply  assert  it.  The  Commission 
+should  be  clear  in  the  objectives  it  desires  from  providers,  but  allow  the  industry 
+flexibility  in  meeting  those  objectives.  The  FCC  needs  to  be  a  strong  enforcer,  but 
+more importantly, the Commission needs to play the role of pushing providers under 
+its jurisdiction to optimize the performance of the best available technology and not 
+reduce  their  role  into  a  ‘‘gotcha  game.’’  The  IP-enabled  services  area  is  a  highly  in-
+novative  sector  characterized  by  rapid  change.  It  is  important  to  use  this  oppor-
+tunity  for  innovation  to  the  advantage  of  public  safety.  Therefore,  enforcement  of 
+FCC  requirements  should  be  flexible  and  always  mindful  of  technology  evolution 
+and the advantages that innovation can provide. 
+
+As Congress considers directives to the FCC to require access to 9-1-1 and E–911 
+service on IP-enabled voice service providers, assume that the FCC will have to en-
+gage  in  some  complex  implementation  activity.  The  Congress  should  contemplate 
+significant oversight and require the FCC to continuously report on progress. 
+Telecommunications vs. Information Services 
+
+I would also encourage you to address the fundamental regulatory cause of failure 
+with respect to the availability of VoIP service to provide access to 9-1-1 and E–911 
+services. The core of this problem lies in the FCC’s agenda to engage in definitional 
+hairsplitting  with  respect  to  telecommunications  and  information  services  defini-
+tions.  While  the  statute  does  not  distinguish  between  voice  and  data  services,  the 
+FCC, nevertheless, has created this artificial distinction in order to pursue a service 
+classification game designed to undermine the statute. In the process, the FCC has 
+made  it  possible  for  voice  communications  services  to  be  sold  to  the  public  which 
+lack access to 9-1-1 and E–911. 
+
+VoIP  service  that  is  sold  to  the  public  as  an  alternative  to  traditional  telephone 
+service should have never been allowed to hide under the shroud of being an ‘‘infor-
+mation  service’’  and  avoid  the  obligations  imposed  on  traditional  voice  service.  One 
+of those obligations is to provide access to E–911. In my judgment, the VoIP services 
+that look, act, and function like traditional voice service should have never been al-
+lowed to be sold to the public unless 9-1-1 and E–911 was a standard feature of the 
+service. The current FCC deserves credit for their leadership, but the previous FCC 
+deserves  an  equal  share  of  responsibility  for  allowing  this  circumstance  to  emerge 
+in the first place. 
+
+This is 2005, not 1905. We live in an era of advanced telecommunications services 
+and  there  is  no  reason  why  services  being  sold  and  marketed  to  the  public  would 
+be  absent  the  basic  emergency  communications  feature  most  Americans  expect 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00024 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+21
+
+today—access to the 9-1-1 system. While I have very high praise for the leadership 
+of Chairman Kevin Martin and his fellow Commissioners who acted with speed and 
+clarity  on  this  matter,  I  am  deeply  disturbed  by  the  fact  that  the  FCC  had  to  act 
+after the fact. 
+
+But, we are where we are and it would not be in the best interest of the approxi-
+mately  2  million  consumers  with  VoIP  service  to  have  their  service  terminated.  In 
+fact,  the  Commission  acted  wisely  last  week,  in  my  judgment,  in  demonstrating 
+some flexibility with respect to enforcing the June 3rd order by extending the dead-
+line for positive affirmation from consumers that they are aware of the service limi-
+tations  of  their  VoIP  service.  While  the  FCC  rule  is  a  good  one—customers  should 
+be  made  aware  of  the  service  limitations  of  their  service—the  FCC  did  the  right 
+thing in not using the ultimate hammer by terminating service at this time. Termi-
+nation  of  service  should  be  done  only  in  extreme  cases  of  non-cooperation  by  pro-
+viders  and  imposed  by  the  Commission  only  with  respect  to  actions  that  are  in  the 
+control of the provider. We need to move forward from this point and I am confident 
+that  the  Commission,  with  Congressional  oversight,  will  manage  compliance  with 
+their requirements reasonably. 
+
+I suggest that the Congress clarify to the Commission that IP-enabled voice serv-
+ices, including VoIP services, are telecommunications services and should be treated 
+like  other  voice  services.  The  clear  meaning  and  intent  of  the  Telecommunications 
+Act  of  1996  was  to  have  similar  services  treated  in  similar  ways.  The  Congress 
+needs  to  rein  in  the  Commission’s  efforts  to  find  escape  hatches  out  of  the  statute. 
+The problem of VoIP service being provided without access to E–911 is a necessary 
+outgrowth of the definitional gamesmanship environment that has been fostered by 
+the Commission since the enactment of the Telecommunications Act of 1996. 
+
+Furthermore,  it  was  the  unwillingness  of  the  Commission  to  classify  VoIP  as  a 
+telecommunications service that became the grounds for assertion that the Commis-
+sion was unable to ensure that VoIP providers could access the selective routers and 
+emergency communications systems they need to access to provide 9-1-1 and E–911 
+service.  The  Commission  left  this  important  step  up  to  voluntary  negotiations 
+among  industry  segments.  S.  1063,  however,  does  address  this  specific  issue  of  re-
+quiring access to the selective routers and emergency communications systems con-
+trolled by incumbent companies. As I alluded to earlier, this is one of the provisions 
+of  this  legislation  which  makes  the  enactment  of  this  measure  necessary  to  ensure 
+9-1-1 and E–911 access over IP-enabled systems. 
+
+I would suggest that either in S. 1063 or other telecommunications legislation con-
+sidered  by  this  Committee,  that  you  address  this  classification  problem  that  is  un-
+dermining  key  social  covenants  that  many  Americans  have  come  to  expect  in  mod-
+ern  day  life—such  as  access  to  9-1-1  and  E–911  service.  I  am  by  no  means  sug-
+gesting  that  IP-enabled  services  be  subjected  to  the  whole  range  of  regulatory  obli-
+gations of traditional telephone service. Many of these requirements may not be nec-
+essary.  The  FCC  has  the  tools  under  the  forbearance  authority  contained  in  the 
+statute  to  ensure  the  new,  innovative  services  such  as  VoIP  are  not  smothered  in 
+unnecessary regulations. But, there are some necessary regulations and in my judg-
+ment,  access  to  emergency  communications  services  such  as  E–911  is  one  of  these 
+necessities.  New  services  such  as  VoIP  will  fare  much  better  in  the  marketplace  if 
+the  regulatory  requirements  are  clear  from  the  start.  The  current  circumstance  is 
+an  environment  of  uncertainty.  This  is  far  more  constraining  on  innovation  than  a 
+clear regulatory environment where providers can have a clear sense of their obliga-
+tions and requirements. 
+Conclusion 
+
+Thank  you  again,  Senator  Burns,  for  inviting  me  to  testify.  More  importantly, 
+thank  you  for  your  leadership.  You  have  truly  been  the  leading  voice  in  the  U.S. 
+Senate in advancing E–911. A great deal of progress has been made, in part directly 
+from  your  efforts,  and  the  public  safety  community  and  the  industry  have  shared 
+praise of your efforts. 
+
+I would be happy to respond to any questions.
+Senator BURNS. Thank you very much. Now we go to Mr. George 
+Heinrichs,  who  is  CEO  and  Chairman  of  Intrado.  Thank  you  for 
+coming.
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00025 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+22
+
+STATEMENT OF GEORGE HEINRICHS, PRESIDENT AND CEO, 
+
+INTRADO 
+
+Mr.  HEINRICHS.  Thank  you,  Senator  Burns.  I’m  George 
+Heinrichs, the CEO of Intrado. We are a provider of the core infra-
+structure  of  our  Nation’s  emergency  network.  I’ve  been  privileged 
+to work with you on 9-1-1 issues for many years, and in fact, I first 
+testified  before  you  in  the  Senate  Communications  Subcommittee 
+in  May  of  1989  when  you  convened  a  hearing  on  the  original  E–
+911  bill,  which  required  that  9-1-1  be  the  universal  number  for 
+emergency calls over cell phones. 
+
+Fortunately, the Wireless Communications and Public Safety Act 
+of 1999, which you authored, passed into law. I have no doubt that 
+many  lives  have  been  saved  by  this  commonsense  piece  of  legisla-
+tion. 
+
+Thank you for inviting to me to testify today on the critical topic 
+of  bringing  lifesaving  enhanced  9-1-1  capabilities  to  the  increas-
+ingly  important  area  of  Voice  Over  Internet  Protocol  services.  I 
+would also like to take the opportunity to acknowledge the tireless 
+efforts  of  my  colleagues,  who  are  also  here  to  testify  regarding  na-
+tional concerns, namely David Jones of NENA, Wanda McCarley of 
+APCO,  Greg  Rohde  of  the  E–911  Institute,  and  Jeffrey  Citron  of 
+Vonage. Their leadership and countless hours of work have signifi-
+cantly contributed to furthering emergency services in our country. 
+It’s  truly  a  team  effort,  and  I’m  proud  during  my  career  to  have 
+served  as  a  call  taker,  an  EMS  responder,  and  a  law  enforcement 
+officer,  and  today  my  role  is  in  service  to  a  much  larger  constitu-
+ency, as the primary provider of the Nation’s underlying 9-1-1 tech-
+nology. 
+
+Senator Burns, you’ve long been a champion of 9-1-1 issues, and 
+have  shown  both  a  tremendous  passion  and  an  effective  advocacy 
+for creating strong coalitions that have resulted in lifesaving legis-
+lation. 
+
+I should add that the location of today’s hearing in your beautiful 
+state  of  Montana  is  particularly  appropriate,  for  rural  states  have 
+the challenge of dealing with vast distances that make efficient and 
+universal  emergency  communications  all  the  more  important,  and 
+absolutely vital for citizens. 
+
+Unfortunately,  many  rural  states  suffer  in  this  regard  without 
+the  leadership  and  resources  of  your  home  state.  Furthermore,  as 
+Montana  is  currently  in  the  grip  of  the  fire  season,  threats  to  the 
+public  safety  highlight  the  constant  need  to  attend  to  the  state’s 
+emergency communications infrastructure. 
+
+In  your  capacity  as  a  champion  of  9-1-1  issues  in  the  Senate, 
+your  efforts  have  been  relentless  in  seizing  any  opportunity  to  up-
+grade our Nation’s critical emergency networks. 
+
+Most  recently,  the  public  safety  community  was  particularly  im-
+pressed at the act of political leadership displayed on the final day 
+of  the  108th  Congress,  by  simply  refusing  to  allow  the  Senate  to 
+go out of session until the ENHANCE 9-1-1 Act of 2004, which you 
+authored,  was  passed.  While  it  was  the  very  last  bill  of  the  108th 
+Congress,  it  is  also  among  the  most  important,  as  the  bill  author-
+ized  $1.25  billion  for  upgrades  of  public  safety  answering  points 
+across the country so that 9-1-1 callers could be accurately located. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00026 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+23
+
+Unlike  so  many  issues  before  Congress,  9-1-1  is  truly  bipartisan 
+in  nature,  which  you  showed  by  reaching  across  the  aisle  to  team 
+with  Senator  Clinton  in  creating  the  9-1-1  caucus.  In  the  little 
+more  than  two  years  since  its  creation,  the  E–911  caucus  has  rap-
+idly transformed into a key national policy forum where the public 
+safety community musters support for lifesaving initiatives. 
+
+Just  as  you  showed  great  vision  in  moving  forward  on  bringing 
+critical  9-1-1  services  to  cell  phones,  you  recognized  early  on  that 
+as VoIP services began to grow in popularity, lifesaving 9-1-1 capa-
+bilities remain an essential aspect of telecommunications service to 
+all Americans. 
+
+Last summer, you authored the Burns amendment to VoIP legis-
+lation being considered in the Senate Commerce Committee, which 
+required  9-1-1  services  to  be  offered  by  VoIP  providers.  You  have 
+continued this leadership by championing Senate Bill 1063, the IP-
+enabled Voice Communications and Public Safety Act of 2005. 
+
+Before  discussing  the  merits  of  the  legislation,  I  would  first  like 
+to provide you with a brief description of Intrado. For over a quar-
+ter  of  a  century,  telecommunications  providers,  public  safety  orga-
+nizations,  and  government  agencies  have  turned  to  Intrado  for 
+communications needs. Founded in 1979, Intrado has built a strong 
+reputation  as  an  innovator  in  emergency  communications.  Today 
+Intrado  provides  the  core  of  America’s  9-1-1  infrastructure  and  a 
+wide range of offerings for safety and mobility markets that include 
+9-1-1  data  management,  call  routing  and  subscription  services, 
+wireless data services, and notification services. 
+
+Throughout  its  history,  we  have  enthusiastically  participated  in 
+bringing  our  experience  and  resources  to  bear  in  the  evolution  of 
+America’s  emergency  communications  policy.  The  rapid  growth  of 
+wireless  and  Voice  Over  Internet  Protocol  and  alternative  tech-
+nologies  present  new  challenges  to  the  current  infrastructure. 
+Intrado  products,  services,  and  systems  support  an  estimated  200 
+million  9-1-1  calls  a  year,  with  a  growing  percentage  of  these  calls 
+coming from wireless and VoIP phones. The Intelligent Emergency 
+Network,  which  is  our  next  generation  product,  is  designed  to  ad-
+dress and support those changing requirements. 
+
+Turning  our  attention  to  Senate  Bill  1063,  we  would  like  to  ex-
+tend  our  full  support  for  this  critical  public  safety  legislation.  Sen-
+ator  Burns,  your  leadership  and  commitment  to  ensuring  that  our 
+Nation’s  citizens  continue  to  receive  the  emergency  services  they 
+need  when  dialing  9-1-1,  regardless  of  the  technology  employed  by 
+the  users,  have  been  met  with  much  deserved  and  widespread  ap-
+proval of the public safety community. 
+
+In addition, there are vital issues that still need to be addressed 
+that  only  Congress  has  the  authority  on  which  to  act.  The  tech-
+nology  that  is  required  to  provide  both  fixed  and  nomadic  VoIP 
+subscribers with emergency service exists today. However, the nec-
+essary  policy  changes  are  not  yet  in  place,  and  both  Congress  and 
+the  Federal  Communications  Commission  must  continue  to  work 
+together to ensure such changes are made. 
+
+As  such,  we  recommend  the  following  policy  enhancements  that 
+will  provide  appropriate  statutory  framework  for  the  delivery  of 
+emergency services to all subscribers of IP-enabled services. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00027 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+24
+
+The critical matter that still needs to be clarified is exactly what 
+types  of  entities  are  afforded  access  to  the  9-1-1  network  in  order 
+to reliably deliver the caller’s location and call back number to the 
+appropriate  answering  point  when  a  call  is  placed  from  an  IP-en-
+abled  device.  Without  minimum  standards  for  access  to  our  Na-
+tion’s critical 9-1-1 infrastructure, VoIP service providers operating 
+outside  this  country,  or  those  who  are  technically  naive  would  be 
+granted  access  to  our  9-1-1  network,  posing  a  significant  threat  to 
+homeland security. 
+
+This  is  not  a  theoretical  concern,  as  America  has  already  been 
+the  target  of  increasingly  sophisticated  attacks  from  organizations 
+of foreign origin on our core emergency information infrastructure, 
+and these mirror previous denial of service attacks on the Internet 
+at large. 
+
+This is a clear and present danger to the security of our Nation, 
+and  must  be  acknowledged  and  prevented.  If  the  9-1-1  network  of 
+the  United  States  were  rendered  inoperable,  the  results  could  be 
+tragic. 
+
+Let me skip quickly to two other points. One is official standards. 
+We  recommend  strongly  that  the  Federal  policy  should  recognize 
+the  important  role  of  accredited  standards  organizations,  and 
+should  insist  on  adherence  to  9-1-1  standards  developed  within 
+those  organizations.  Having  this  policy  measure  will  ensure  that 
+appropriate  rules  are  in  place,  and  do  not  hinder  the  deployment 
+of VoIP 9-1-1 services. 
+
+Finally,  to  give  our  support  for  liability  protection,  which  we  be-
+lieve  is  important  to  provide  the  parity  for  all  of  the  carriers  that 
+are providing service in the U.S. Thank you very much. 
+
+[The prepared statement of Mr. Heinrichs follows:]
+PREPARED STATEMENT OF GEORGE HEINRICHS, PRESIDENT AND CEO, INTRADO INC. 
+Senator  Burns,  I  am  George  Heinrichs,  CEO  of  Intrado  Inc.,  the  provider  of  the 
+core infrastructure of our Nation’s emergency communications network. I have been 
+privileged  to  work  with  you  on  9-1-1  issues  for  many  years.  In  fact,  I  first  testified 
+before  you  in  the  Senate  Communications  Subcommittee  in  May  of  1999  when  you 
+convened a hearing on the original E–911 bill, which required that 9-1-1 be the uni-
+versal number for emergency calls over cell phones. Fortunately, the Wireless Com-
+munications  and  Public  Safety  Act  of  1999,  which  you  authored,  passed  into  law. 
+I have no doubt that many lives have been saved by this commonsense piece of leg-
+islation.  Thank  you  for  inviting  me  to  testify  today  on  the  critical  topic  of  bringing 
+lifesaving  enhanced  9-1-1  capabilities  to  the  increasingly  important  area  of  Voice 
+over Internet Protocol (VoIP) services. 
+
+I would also like to take the opportunity to acknowledge the tireless efforts of my 
+colleagues  who  are  also  here  to  testify  regarding  national  concerns,  namely  David 
+Jones of NENA, Wanda McCarley of APCO, Greg Rohde of the E–911 Institute and 
+Jeffrey Citron of Vonage. Their leadership and countless hours of work have signifi-
+cantly  contributed  to  furthering  emergency  services  in  our  country.  It  is  truly  a 
+team  effort  and  I  am  proud  during  my  career  to  have  served  as  a  call  taker,  EMS 
+responder and law enforcement officer. Today, my role is in service to a much larger 
+constituency as the primary provider of our Nation’s 9-1-1 technology. 
+
+Senator  Burns,  you  have  long  been  a  champion  of  9-1-1  issues  and  have  shown 
+both a tremendous passion and effective advocacy for creating strong coalitions that 
+have resulted in lifesaving legislation. I should add that the location of today’s hear-
+ing  in  your  beautiful  state  of  Montana  is  particularly  appropriate,  for  rural  states 
+have the challenge of dealing with vast distances that make efficient and universal 
+emergency communications all the more important and absolutely vital for their citi-
+zens.  Unfortunately,  many  rural  states  suffer  in  this  regard  without  the  leadership 
+and resources of your home state. Furthermore, as Montana is currently in the grip 
+of the fire season, threats to the public safety highlight the constant need to attend 
+to the State’s emergency communications infrastructure. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00028 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+25
+
+In  your  capacity  as  a  champion  of  9-1-1  issues  in  the  Senate,  your  efforts  have 
+been  relentless  in  seizing  any  opportunity  to  upgrade  our  Nation’s  critical  emer-
+gency  communications  networks.  Most  recently,  the  public  safety  community  was 
+particularly  impressed  at  the  act  of  political  leadership  you  displayed  on  the  final 
+day  of  the  108th  Congress  by  simply  refusing  to  allow  the  Senate  to  go  out  of  ses-
+sion  until  the  ENHANCE  911  Act  of  2004,  which  you  authored,  was  passed.  While 
+it  was  the  very  last  bill  passed  in  the  108th  Congress,  it  was  also  among  the  most 
+important, as the bill authorized $1.25 billion for upgrades to public safety answer-
+ing points across the country to allow for 9-1-1 callers to be accurately located. 
+
+Unlike so many issues before Congress, 9-1-1 is truly bipartisan in nature, which 
+you  showed  by  reaching  across  the  aisle  to  team  with  Senator  Clinton  in  creating 
+the  E–911  Caucus.  In  the  little  more  than  two  years  since  its  creation,  the  E–911 
+Caucus  has  rapidly  transformed  into  a  key  national  policy  forum  where  the  public 
+safety community musters support for lifesaving initiatives. 
+
+Just as you showed great vision in moving forward on bringing critical 9-1-1 serv-
+ices  to  cell  phones,  you  recognized  early  on  that  as  VoIP  services  began  to  grow  in 
+popularity,  lifesaving  9-1-1  capabilities  remain  an  essential  aspect  of  telecommuni-
+cations  service  to  all  Americans.  Last  summer,  you  offered  the  Burns  amendment 
+to  VoIP  legislation  being  considered  in  the  Senate  Commerce  Committee,  which  re-
+quired 9-1-1 services to be offered by VoIP providers. You have continued this lead-
+ership by championing Senate Bill 1063, the IP-Enabled Voice Communications and 
+Public Safety Act of 2005. 
+
+Before  discussing  the  merits  of  this  legislation,  I  would  first  like  to  provide  you 
+with  a  brief  description  of  Intrado.  For  over  a  quarter  of  a  century,  telecommuni-
+cations providers, public safety organizations and government agencies have turned 
+to  Intrado  for  their  communications  needs.  Founded  in  1979,  Intrado  has  built  a 
+strong  reputation  as  an  innovator  in  emergency  communications.  Today,  Intrado 
+provides the core of North America’s 9-1-1 infrastructure and a wide range of offer-
+ings for the safety and mobility markets that includes 9-1-1 data management, call 
+routing and subscription services, wireless data services and notification services. 
+
+Throughout  its  history,  Intrado  has  enthusiastically  participated  in  bringing  its 
+experience  and  resources  to  bear  in  the  evolution  of  America’s  emergency  commu-
+nications  policy  and  infrastructure.  As  9-1-1  has  grown  to  become  an  essential  ele-
+ment of telecommunications service, Intrado has played a key role in defining, build-
+ing and maintaining our complex emergency communications infrastructure. 
+
+The  rapid  growth  of  wireless  and  Voice  over  Internet  Protocol  communications 
+and other alternative technologies presents new challenges to the current infrastruc-
+ture.  Intrado  products,  services  and  systems  support  an  estimated  200  million  9-1-
+1 calls each year, with a growing percentage of these calls coming from wireless and 
+VoIP phones. The Intrado Intelligent Emergency NetworkTM, Intrado’s next genera-
+tion,  IP-based  emergency  communications  services  network,  is  designed  to  address 
+and support these changing communications requirements. 
+
+Turning  our  attention  to  Senate  Bill  1063,  Intrado  would  like  to  extend  its  full 
+support for this critical public safety legislation. Senator Burns, your leadership and 
+commitment  to  ensuring  that  our  Nation’s  citizens  continue  to  receive  the  emer-
+gency  services  they  need  when  dialing  the  digits  ‘‘9-1-1,’’  regardless  of  the  tech-
+nology employed by users, have been met with much-deserved, widespread approval 
+in the public safety community. 
+
+In  addition,  there  are  vital  issues  that  still  need  to  be  addressed  that  only  Con-
+gress  has  the  authority  on  which  to  act.  The  technology  that  is  required  to  provide 
+both fixed and nomadic VoIP subscribers with emergency services exists today; how-
+ever,  the  necessary  policy  changes  are  not  yet  in  place,  and  both  Congress  and  the 
+Federal  Communications  Commission  must  continue  to  work  together  to  ensure 
+such changes are made. 
+
+As such, Intrado proposes the following policy enhancements that will provide the 
+appropriate  statutory  framework  for  the  delivery  of  emergency  services  to  all  sub-
+scribers of IP-Enabled services: 
+Qualified Access to the 9-1-1 Network 
+
+A  critical  matter  that  still  needs  to  be  clarified  is  exactly  what  types  of  entities 
+are  afforded  access  into  the  9-1-1  network  in  order  to  reliably  deliver  the  caller’s 
+location and call back number to the appropriate Answering Point when a 9-1-1 call 
+is placed from an IP-enabled device. Without minimum standards for access into our 
+Nation’s  critical  9-1-1  infrastructure,  VoIP  service  providers  operating  outside  of 
+this  country  or  those  who  are  technically  naı¨ve  would  be  granted  access  to  the  E–
+911  network,  posing  a  significant  threat  to  homeland  security.  This  is  not  a  theo-
+retical concern, as America has already been the target of increasingly sophisticated 
+attacks  from  organizations  of  foreign  origin  on  our  core  emergency  information  in-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00029 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+26
+
+frastructure,  which  mirror  previous  denial  of  service  attacks  on  the  Internet  at 
+large. 
+
+This clear and present danger to the security of our Nation must be acknowledged 
+and prevented. If the 9-1-1 network of the United States were rendered inoperable, 
+the results could be tragic. Clearly, safeguarding our 9-1-1 infrastructure from these 
+threats  through  a  minimally  intrusive  qualification  process  is  paramount.  E–911 
+service  providers,  who  currently  provide  access  into  the  9-1-1  network,  must  have 
+the  technical  acumen  to  ensure  those  providers  gaining  access  are  qualified  and 
+meet  an  appropriate  level  of  technical  sophistication  and  security,  for  the  purposes 
+of providing E–911 services. The combination of qualified E–911 service provider op-
+eration of the secure network connectivity point and some minimal criterion for com-
+panies  that  interconnect  with  them  would  ensure  our  Nation’s  future  E–911  net-
+work is at least as safe and reliable as today’s 9-1-1 infrastructure. 
+
+Appropriate  policy  measures  should  be  considered  that  provide  a  framework  for 
+the  evolution  of  the  9-1-1  network  to  accommodate  future  advancements  in  tele-
+communications.  This  should  include  accommodation  or  modification  of  the  current 
+9-1-1  network  and  the  setting  of  clear  objectives  to  move  the  U.S.  forward  in  more 
+advanced and intelligent communications infrastructures. 
+Official Standards 
+
+Federal policy should recognize the important role of accredited standards organi-
+zations  and  should  insist  on  adherence  to  9-1-1  standards  developed  within  those 
+organizations.  Having  this  policy  measure  will  ensure  that  appropriate  rules  are  in 
+place  that  do  not  hinder  the  deployment  of  VoIP  9-1-1  services  across  the  country 
+and  are  in  line  with  this  current  technology.  Legacy  deployment  practices  will  not 
+work in this new IP environment and reliance on such will only slow down a nation-
+wide rollout of emergency services. 
+Liability Protection 
+
+Given that only Congress can assign liability protection to IP-Enabled service pro-
+viders,  it  is  imperative  that  Federal  legislation  is  enacted  to  ensure  this  provision 
+becomes a Federal mandate. Congress must grant VoIP providers the same liability 
+protection  and  immunity  as  dictated  by  the  States—much  like  you  did  for  wireless 
+carriers under the original Burns E–911 bill, the Wireless Communications and Pri-
+vacy  Act  of  1999.  In  order  for  the  IP-Enabled  Service  Providers  to  obtain  liability 
+protection,  they  will  need  to  meet  certain  criteria  so  that  the  integrity  of  the  9-1-
+1 network is not placed in jeopardy. In addition, it is important that liability protec-
+tion  be  extended  to  third-party  providers,  vendors  and  agents  of  these  IP-Enabled 
+Service Providers. 
+
+As  VoIP  services  become  ever  more  popular  among  Americans,  our  Nation’s  tele-
+communications  policy  must  keep  pace  with  this  development.  One  key  aim  of  pol-
+icymakers when creating the proper regulatory structure of VoIP technology should 
+be  the  preservation  of  our  Nation’s  critical  E–911  information  infrastructure.  You 
+have  shown  your  leadership  in  the  national  policy  arena  by  sponsoring  vital  public 
+safety  legislation  which  is  balanced,  far-reaching  and  has  been  met  with  enthusi-
+astic support. By enacting policy that addresses the aforementioned issues, Congress 
+will not only preserve the integrity and reliability of the 9-1-1 network, but will also 
+achieve  its  goal  of  providing  the  policy  framework  required  to  ensure  all  users  of 
+IP-Enabled  services  have  access  to  full  E–911  emergency  services.  Again,  Intrado 
+thanks  you  for  your  well-considered,  commonsense  legislation  and  supports  its  pas-
+sage by the Congress in rapid fashion. 
+
+Finally,  I  am  pleased  to  see  Michael  Brown,  the  Under  Secretary  of  the  Depart-
+ment of Homeland Security in attendance and would like to extend my appreciation 
+to him for all of his work in bridging the gap between emergency services and home-
+land security. The Under Secretary’s understanding of the real threats facing Amer-
+ica’s communities is a credit to him and to this administration. Creating and main-
+taining the best emergency communications network in the world is a constant chal-
+lenge and is truly a collaborative effort. 
+
+Thank  you  again  for  the  opportunity  to  testify  here  today.  I  would  be  more  than 
+
+happy to answer any questions you may have.
+
+Senator  BURNS.  Thank  you,  and  thank  all  of  you  for  your  testi-
+mony  today.  I’ve  seen  it  written  up  in  the  communications  papers 
+and  communications  that  being  as  the  FCC  has  passed  this  order, 
+further legislation needed? I’ll start with you, Mr. Rohde. 
+
+Mr. ROHDE. Yes, Senator, I believe it is, for a number of reasons 
+which I just outlined. One is I do think it’s important to make the 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00030 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+27
+
+requirement  a  statutory  requirement,  not  simply  a  regulatory  re-
+quirement. For that reason alone, you should pass legislation. 
+
+I also think—and the other panelists have said the same thing—
+that  the  liability  parity  provision  is  necessary.  The  liability  immu-
+nity  you  provide  for  wireless  E–911  services  and  landline  9-1-1 
+services should apply to VoIP services. 
+
+Third  is  the  provision  of—the  FCC  chose  not  to  assert  authority 
+to  require  that  VoIP  providers  have  access  to  the  emerging  infra-
+structure  that  local  exchange  carriers  control,  such  as  selected 
+routers.  So  since  the  FCC  did  not  make  that  a  requirement,  Con-
+gress really has to step in and make that requirement. 
+
+So for those three reasons alone, that legislation is necessary. 
+Senator BURNS. Mr. Citron. 
+Mr.  CITRON.  We  would  agree  wholeheartedly  that  those  items 
+just  recognized  be  included  in  Congressional  mandates.  I  want  to 
+make  one  additional  comment  that  was  made  during  the  previous 
+testimony, and that that is our Nation’s network of E–911 is really 
+a  patchwork  quilt  of  6,000  different  sets  of  standards,  and  a  na-
+tional  standard  should  be  created,  and  9-1-1  should  be  treated  as 
+a national asset, not as something that is incredibly local, and can 
+deviate  freely,  depending  on  the  service  areas  being  currently  cov-
+ered by 9-1-1. 
+
+Senator BURNS. Do you want to comment on that, George? 
+Mr. HEINRICHS. We’re not in Washington. I’ll just keep the word 
+
+short. 
+
+istic date? 
+
+Senator BURNS. Wanda. 
+Ms.  MCCARLEY.  I  think  most  assuredly  there’s  more  work  to  be 
+done,  and  Congress  has  a  role  in  that.  To  just  reiterate,  I’ll  just 
+ditto  Greg’s  comments.  The  items  that  he’s  outlined  are  excellent 
+examples  of  the  role  that  Congress  could  take  in  forwarding  these 
+goals. 
+
+Senator  BURNS.  How  realistic  is  November  28th?  Is  that  a  real-
+
+Mr. CITRON. I guess as the one here who was responsible for re-
+leasing  the  service  throughout  the  entire  United  States  by  that 
+deadline, we suspect that we will get the majority of our customers 
+online  well  within  that  time  period.  I  think  it’s  going  to  be  chal-
+lenging  to  get  every  single  customer  on  in  that  period.  Getting  ac-
+cess to underlying facilities, just the timeline of testing is quite dif-
+ficult. I’m sure that APCO and NENA represent their constituents, 
+but  we  need  to  test  and  implement  the  solution  with  hundreds  of 
+selective routers, and literally implement 6,000 PSAPs. 
+
+We  think  that  to  go  out  and  rush  to  get  it  online  when  it’s  not 
+been  properly  tested  and  give  the  fail  safe  protections  and  stand-
+ards necessary is difficult. With that said, we’ll, of course, move as 
+fast as possible, get as many people as quickly as possible, irrespec-
+tive of any deadline set by the FCC. 
+
+Senator BURNS. Should the FCC be pretty flexible on this?
+Mr.  CITRON.  We  think  the  FCC  should  look  at  what  the  service 
+providers  are  doing  on  an  individual  case-by-case  basis.  Providers 
+are working diligently and hard getting this rolled out. They should 
+provide the flexibility and comment on necessary time lines, too. 
+
+Senator  BURNS.  You  know  we  have  challenges  of  getting  this 
+done.  Is  it  the  technology?  What  kind  of  challenges,  what  are  you 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00031 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+running 
+instrumenting E–911 and Voice Over IP? 
+
+into  out  there  that  would  slow  the  progress  of 
+
+28
+
+Nobody? 
+
+Mr.  CITRON.  I  think  there  are  a  lot  of  challenges.  The  first  for 
+starters is identifying every selected router in the country we need 
+to hook into, because there is no such mandated list maintained by 
+any  Federal  or  state  authority.  So  we  don’t  even  know  all  the 
+things  we  need  to  do.  We’re  still  finding  every  single—APCO,  and 
+NENA,  and  Intrado  are  great  partners—in  trying  to  identify  those 
+access points. 
+
+Even  beyond  that,  accessing  those  elements,  having  to  negotiate 
+commercial  agreements,  interconnect  with  those  relationships, 
+without  any  standards  made  available,  requires  us  to  literally  sit 
+down  with  every  single  operator  and  owner,  and  explain  to  them 
+how  this  solution  is  going  to  work,  and  to  customize  that  solution, 
+because  there  are  no  standards  for  local  communications.  Beyond 
+that, the testing with PSAPs takes a quite a bit of time. And every-
+body has got a little bit of a different view. 
+
+So  I  think  there  are  a  lot  of  challenges  out  there,  and  only  time 
+and  the  dedication  of  all  the  people  at  this  table  are  going  to  be 
+required to make this work. 
+
+Senator  BURNS.  Would  you  like  to  comment  on  that  question? 
+
+Mr.  HEINRICHS.  Senator,  I  would  suggest  that  I  think  the 
+timeline is unreasonable in the sense that it’s unprecedented in the 
+history of 9-1-1. If you look at the history of rolling out wireless in 
+the United States, it was measured in a matter of years or decades 
+actually.  If  you  look  at  wireless,  we’ve  worked  together  on  this  for 
+a long time, and we’re still working on that. 
+
+One  Hundred  and  Twenty-days  certainly  provided  a  lot  of  moti-
+vation  for  a  lot  of  people  working  very  hard.  I  think  when  we  get 
+to  the  end  of  that,  they’ll  see  the  fruits  of  their  labor,  and  it  will 
+be  good,  but  it’s  not  going  to  be  100  percent.  I  think  it’s  clear  to 
+me right now from where I sit that this will not be nationwide and 
+complete by that deadline. 
+
+Senator  BURNS.  I’ve  looked  at  the  wireless  thing,  and  also  on 
+Voice  Over  IP,  and  that’s  the  reason  I  asked  the  flexibility  ques-
+tion.  I’d  hate  to  see  the  FCC  go  and  fine  people  or  anything  like 
+this  before  they  get  it  done.  There  are  challenges  out  there,  some 
+challenges that we didn’t have in 9-1-1, to be honest with you. But 
+I still think it’s important. 
+
+We  had  testimony  of  many—of  instances  where  9-1-1  wasn’t  an-
+swered  and  something  very  bad  happened.  So  we’re  very  much—
+I  would  like  to  stay  in  the  circle  on  all  of  you—especially  you,  Mr. 
+Citron,  because  of  your  experience  with  trying  to  put  9-1-1  into 
+Voice  Over  IP—challenges  that  might  arise  that  we  don’t  think  of. 
+And just to stay in it, as we put this technology out there, and try 
+to force it out. 
+
+As  you  know,  sometimes  the  marketplace  does  it  faster  than 
+Congress  or  deadlines  can  do  it,  but  sometimes  I  always  have  the 
+feeling that the market should really force a lot of this, and would 
+do a better job. 
+
+Mr.  CITRON.  In  addition  to  the  challenges  that  I’ve  already  out-
+lined,  there  are  others  that  do  concern  us.  We  think  that  the  FCC 
+has  done  a  great  job  in  really  moving  the  ball  forward.  We  tried 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00032 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+29
+
+to deploy E–911 for a very long time, and Intrado worked very hard 
+with  us  on  issues;  and  without  getting  the  underlying  access,  it 
+was nearly impossible, and only with the help of the FCC interven-
+tion have Bell Operating Companies and owners of the 9-1-1 infra-
+structure started to let us get access. 
+
+But the FCC has other policies that do concern us, and may come 
+up  to  hurt  us  in  a  bad  way,  and  that  is  clearly  the  FCC  has  man-
+dated that if 9-1-1 service can’t be provided, that service be discon-
+tinued  to  a  user.  And  as  users  of  nomadic  Voice  Over  IP  services 
+move  around,  it’s  quite  possible  that  a  user  will  move  around  to  a 
+location,  will  type  in  his  new  location,  and  then  the  service  will  of 
+course stop working, and then that will force the user to potentially 
+select  a  different  market  where  9-1-1  is  currently  available,  thus 
+causing misrouting of calls, and we find that to be a very large con-
+cern. 
+
+Senator BURNS. Do you find that the responsibility is going to be 
+just as much on the user as it is on you folks who provide the serv-
+ice? 
+
+Mr. CITRON. Yes. 
+Senator  BURNS.  That’s  the  conclusion  I  drew,  too.  We  thank  you 
+for your testimony today. And as we move this legislation forward, 
+let’s keep the communication lines open, and let us know the chal-
+lenges you run into, and to make it work, and make it fair. Thank 
+you for your testimony. 
+
+We  go  to  the  second  panel  today,  which  is  made  up  of  Jeremy 
+Ferkin,  General  Manager  of  CenturyTel;  Jeff  Brandt,  Director, 
+Montana  Department  of  Administration;  Bill  Squires,  Blackfoot 
+Telecommunications  Group;  and  Chairman  Greg  Jergeson,  Mon-
+tana  Public  Service  Commission.  So  we  welcome  all  of  you.  Have 
+we got a change here? 
+
+Ms.  KELLY.  I’m  Jeff  Brandt  today.  Janet  Kelly,  Director  of  the 
+
+Department. 
+
+Senator BURNS. Yes. Okay. And again, we would like to have you 
+kind  of  keep  your  testimony  down  to  five  minutes,  and  your  full 
+statement and anything that you want to put in the record will be 
+received at this time. 
+
+And  Ms.  Kelly,  since  you’re  the  stand-in,  you  get  to  lead  off 
+
+today.
+
+STATEMENT OF JANET KELLY, DIRECTOR, DEPARTMENT OF 
+
+ADMINISTRATION, STATE OF MONTANA 
+
+Ms.  KELLY.  Senator  Burns,  thank  you  so  much  for  providing  me 
+with the opportunity to appear before you today. My name is Janet 
+Kelly.  I’m  the  Director  of  the  Department  of  Administration.  And 
+I’m appearing today on behalf of the State of Montana because the 
+Department  of  Administration  has  responsibility  for  managing  the 
+statewide 9-1-1 program. 
+
+The  State  of  Montana  supports  Senate  Bill  1063  because  it  ad-
+dresses  a  number  of  our  concerns,  and  supports  our  efforts  to  pro-
+vide  the  highest  quality  public  safety  services  to  the  citizens  of 
+Montana.  I  would  like  to  thank  Senator  Nelson  for  sponsoring  the 
+bill,  and  Senators  Clinton,  Kerry,  Snowe,  and  Burns,  co-sponsors. 
+Senator  Burns,  you  have  been  a  leader  on  this  issue,  not  only 
+here  in  Montana,  but  throughout  the  Nation.  9-1-1  services,  let 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00033 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+30
+
+alone  public  safety  technology,  are  not  plug-and-play  operations. 
+There  have  been  exciting  advances  in  communications  technology 
+that provide our citizens with greater choice and capabilities. 
+
+However,  we  must  be  sure  that  the  deployment  of  these  new 
+technologies  does  not  interfere  with  our  ability  to  provide  impor-
+tant public safety services. The technology landscape is ever-chang-
+ing,  and  Senate  Bill  1063  will  help  ensure  that  public  safety  serv-
+ices  will  be  available  to  all  citizens,  regardless  of  their  choice  of 
+technology. 
+
+Technological  advances  will  continue  to  create  new  issues  and 
+challenges  as  businesses  offer  new  services  to  our  citizens.  There-
+fore, additional legislation, regulation, and standards may be need-
+ed to be sure that our citizens are adequately served, and that the 
+public  safety  community  needs  to  have  a  place  and  a  voice  at  that 
+table. 
+
+Montana is among the handful of states that has attained state-
+wide basic 9-1-1. However, our citizens, even those living in remote 
+areas,  expect  enhanced  9-1-1,  and  we  met  the  challenge  of  deploy-
+ing  E–911  solutions  across  our  state  by  the  9-1-1  program  office 
+collaborating  with  the  Montana  Sheriffs  and  Peace  Officers  Asso-
+ciation; and with the assistance of a Federal appropriation in fiscal 
+year  2003,  we  have  a  statewide  E–911  network  project  underway. 
+Montana’s 9-1-1 program is successful because of the cooperation 
+among  legislators,  regulators,  state  and  local  government  adminis-
+trators, and the telephone industry; and our future success will re-
+quire  continued  cooperation  to  solve  the  problems  created  by  the 
+new  technologies  and  conditions  that  will  impact  the  public  safety 
+community. 
+
+Voice Over IP creates new opportunities and new challenges, and 
+I will address these from the State of Montana’s perspective. First, 
+we need to safeguard the ability of Montanans to pay for the deliv-
+ery of public safety services across our vast state. 
+
+Montana  is  concerned  with  the  potential  for  unfunded  mandates 
+that  would  impact  our  ability  to  update  and  maintain  our  infra-
+structure.  We  want  to  be  sure  that  we’re  able  to  continue  to  work 
+in  enhancing  existing  technology,  rather  than  having  to  deal  with 
+planned  obsolescence  or  incompatible  technologies.  As  the  tech-
+nology evolves, it must not interfere with the public’s access to crit-
+ical public safety services. 
+
+Today’s  hearing  reinforces  the  importance  of  the  industry,  Con-
+gress, and the public safety community working together, and I ap-
+plaud  the  Committee’s  commitment  and  continued  support  of  pub-
+lic safety in this country. The State of Montana is working on solu-
+tions,  and  embracing  the  new  technology  for  public  safety,  and  we 
+stand  ready  to  assist  you  in  any  way  we  can  to  make  our  Nation 
+safer. Thank you. 
+
+[The prepared statement of Ms. Kelly follows:]
+
+PREPARED STATEMENT OF JANET KELLY, DIRECTOR, DEPARTMENT OF 
+
+ADMINISTRATION, STATE OF MONTANA 
+
+Mr. Chairman, Members of the Committee, Senator Burns, thank you very much 
+for  providing  me  with  this  opportunity  to  appear  before  you  today.  My  name  is 
+Janet  Kelly,  and  I  am  the  Director  of  the  Department  of  Administration  for  the 
+State of Montana. I am appearing today on behalf of the State of Montana because 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00034 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+31
+
+the Department of Administration has responsibility for managing Montana’s State-
+wide 9-1-1 Program. 
+
+The State of Montana offers its support for the IP-Enabled Voice Communications 
+and  Public  Safety  Act  of  2005  (S.  1063).  This  bill  addresses  a  number  of  concerns 
+I will identify and supports our efforts in providing the highest quality public safety 
+services to the citizens of Montana. 
+
+Mr.  Chairman,  I  would  like  to  take  this  opportunity  to  thank  Senator  Nelson  for 
+sponsoring  this  bill  and  to  Senators  Clinton,  Kerry,  Snowe  and  Burns,  its  cospon-
+sors.  Senator  Burns  has  been  a  leader  on  this  issue,  not  only  here  in  Montana  but 
+throughout  the  Nation.  For  example,  in  1999  he  sponsored  the  Wireless  Commu-
+nications  and  Public  Safety  Act,  an  important  roadmap  for  deploying  wireless  9-1-
+1. 
+
+9-1-1  services,  let  alone  public  safety  technology,  are  not  a  ‘‘plug  and  play’’  oper-
+ation. There have been exciting advances in communications technology that provide 
+our  citizens  with  greater  choice  and  capabilities.  But  we  must  ensure  that  the  de-
+ployment  of  these  new  technologies  doesn’t  interfere  with  the  ability  to  provide  im-
+portant public safety services. Furthermore, the technology landscape is ever-chang-
+ing.  We  must  maintain  vigilance  so  that  critical  public  safety  services  continue  to 
+be  provided  as  technology  evolves.  The  legislation  that  Senator  Burns  and  others 
+have  sponsored  will  be  a  valuable  tool  in  ensuring  that  public  safety  services  will 
+be available to all citizens, regardless of their choice of technology. 
+
+Undoubtedly,  technological  advances  will  create  new  issues  and  challenges  as 
+businesses offer new services to citizens. Legislation, regulations and standards may 
+be  needed  to  ensure  the  citizen  is  adequately  served.  The  public  safety  community, 
+in particular, needs to have a place and a voice at that table. 
+
+The  challenge  of  keeping  pace  with  technology,  let  alone  responding  to  the  chal-
+lenges that have been dropped on the doorstep of our 9-1-1 Public Safety Answering 
+Points  (PSAPs),  is  a  daunting  task.  In  addition,  we  have  limitations  in  our  respec-
+tive  jurisdictions  as  to  our  authority  and  ability  to  enforce  the  rules.  With  limited 
+funds  and  a  small  population  spread  across  a  vast  state,  we  knew  we  had  to  work 
+together. So in Montana we collaborated with local, state and Federal partners. 
+
+In  2002,  the  Governor’s  office  created  the  Public  Safety  Services  Bureau  in  the 
+Department  of  Administration.  The  Public  Safety  Services  Bureau  manages  the 
+State’s  9-1-1  Program  and  statewide  planning  of  public  safety  radio  communica-
+tions. 
+
+Montana  is  among  the  handful  of  states  that  have  attained  statewide  basic  9-1-
+1  service,  but  the  public,  even  in  remote  areas,  expects  enhanced  9-1-1  service. 
+When  faced  with  the  challenge  of  deploying  E–911  solutions  across  the  State,  the 
+9-1-1 Program office collaborated with the Montana Sheriff’s and Peace Officers’ As-
+sociation, and, with the assistance of a FY03 Federal appropriation, a statewide E–
+911  network  project  is  underway.  Montana’s  9-1-1  program  is  successful  because  of 
+the  cooperation  among  legislators,  regulators,  state  and  local  government  adminis-
+trators  and  the  telephone  industry.  Our  future  success  will  require  continued  co-
+operation  to  solve  the  problems  caused  by  new  technology  and  conditions  that  will 
+impact the public safety community. 
+
+Now we turn our attention to VoIP. Like most technologies, it creates new oppor-
+tunities but also new challenges. I applaud the bill sponsors for tackling these new 
+challenges. I will address these challenges from the State of Montana’s perspective. 
+First,  we  need  to  safeguard  the  ability  for  Montanans  to  pay  for  the  delivery  of 
+public  safety  services  across  Montana’s  vast  territory.  We  are  concerned  with  the 
+potential for unfunded mandates that would impact our ability to update and main-
+tain our infrastructure. 
+
+We  want  to  be  sure  that  we  will  be  able  to  continue  to  work  to  enhance  existing 
+technology  rather  than  having  to  deal  with  planned  obsolescence  or  incompatible 
+technologies. 
+
+We want to be sure that our citizens continue to have access to public safety serv-
+ices.  As  technology  evolves,  it  must  not  interfere  with  the  public’s  access  to  critical 
+public safety services. 
+
+This  hearing  today  reinforces  the  importance  of  the  industry,  Congress  and  the 
+public  safety  community  working  together,  and  I  applaud  the  Committee’s  commit-
+ment, efforts and continued support of public safety in this country. 
+
+The State of Montana is working on solutions and embracing the new technology 
+for  public  safety;  and  we  stand  ready  to  assist  you  in  any  way  we  can  to  make  our 
+Nation safer. 
+Thank you.
+Senator  BURNS.  Thank  you  for  your  testimony.  We’ll  hear  from 
+
+Mr. Jeremy Ferkin, General Manager of CenturyTel. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00035 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+32
+
+STATEMENT OF JEREMY FERKIN, GENERAL MANAGER, 
+
+CENTURYTEL, INC. 
+
+Mr.  FERKIN.  Thank  you,  Senator.  We  are  pleased  to  be  the—as 
+the State so-called it—the one throat to choke providing the E–911 
+services  for  the  state  of  Montana.  As  our  testimony  has  been  sub-
+mitted, and questions you’ve asked, I’ll get right to the issues that 
+really speak to the heart of S. 1063, and also the issues that we’re 
+focused on. 
+
+Liability  is  the  number  one  paramount  issue  we’ve  had  to  deal 
+with  negotiating  with  the  State  of  Montana,  and  is  also  the  issue 
+that  we  face  in  the  26  states  we  serve  across  the  United  States. 
+There’s a patchwork of liability issues throughout the country, and 
+we  believe,  like  NENA,  like  the  other  testimony  that  you  received, 
+it’s the first issue that we really think needs to be addressed. 
+
+Limitation  of  liability  isn’t  a  balloon  management  issue.  You 
+don’t squeeze it in one area, and it pops out, and someone else has 
+the liability over here. It is a matter of who is going to put money 
+forward,  and  who  is  going  to  be  willing  to  step  out  and  be  a  dif-
+ferent  company,  and  just  say  that  this  is  bigger  than  any  one  per-
+son’s  event.  9-1-1  is  that  event  we  all  have  to  be  concerned  about. 
+So the other side of it is we know that Voice Over Internet is not 
+a technology issue. We heard Mr. Citron and everybody else speak 
+too. The technology is not the problem with implementing. The re-
+lationships,  and  negotiation,  and  navigation  is  where  the  issues 
+typically happen. 
+
+That’s not dissimilar to what we experience in the state of Mon-
+tana,  with  all  the  different  PSAPs,  all  the  different  vested  entities 
+in  this.  So  I  don’t  know  that  it’s  legislation,  but  we  do  know  that 
+relationships  are  the  key  to  making  this  happen.  As  Montanans, 
+we  all  know  that  if  you  know  people,  you  know  how  to  get  stuff 
+done. 
+
+The  other  part  of  S.  1063  that  we  believe  is  critically  important 
+is  the  transition  period  that  the  FCC  put  out  there.  I’m  glad  to 
+hear  that  Mr.  Citron  believes  that  the  time  line  is  semi-satisfac-
+tory.  We  believe  that  there  are  implications  to  E–911  implementa-
+tion on IP that possibly are not thought of long term. 
+
+For instance, what if IP isn’t the underlying protocol that’s going 
+to  be  used  five  years,  ten  years  from  now?  So  whatever  legislation 
+goes  on  needs  to  address  further  technologies  and  further  applica-
+tions  that  may  be  out  there,  whether  it’s  SIP  (phonetic)  based, 
+which is the newest, latest, greatest thing that we talked about, or 
+whether  it’s  neural  implants,  we  don’t  know.  But  technology  will 
+change. 
+
+The  additional  focus  S.  1063  addresses,  but  does  not  fully  ad-
+dress, is the compensation side of what’s going to happen. So if we 
+are  required  to  open  up  access,  that  access  is  going  to  put  more 
+costs on whoever is providing those 9-1-1 services. That funding, as 
+was  spoken  about  earlier,  where  does  that  come  from?  That  addi-
+tional  expense,  is  that  borne  by  us?  If  so,  does  it  negate  or  does 
+it  require  us  to  actually  not  want  to  be  a  9-1-1  service  provider? 
+That  would  be  a  catastrophic  event,  to  have  people  who  are  step-
+ping  out  to  provide  the  service,  being  encumbered,  to  have  to  pay 
+for service that they don’t benefit in any way from. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00036 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+33
+
+We also believe that, as we talked about, the liability issues. But 
+some general issues that are out there, is if you’re on the network, 
+if  you’re  utilizing  the  network,  compensation  is  the  biggest  issue. 
+So  they  boil  down  to  two  issues.  Liability  is  the  biggest  issue;  and 
+then compensation for how do we fund it, and how do we navigate 
+it for those who own that infrastructure. 
+
+[The prepared statement of Mr. Ferkin follows:]
+PREPARED STATEMENT OF JEREMY FERKIN, GENERAL MANAGER, CENTURYTEL, INC. 
+Senator  Burns  and  Members  of  the  Committee,  thank  you  very  much  for  pro-
+viding  me  with  this  opportunity  to  appear  before  you  today.  My  name  is  Jeremy 
+Ferkin, and I am General Manager for CenturyTel operations in Kalispell, Montana. 
+I am pleased to have this opportunity to discuss Voice Over Internet Protocol (VoIP), 
+its  implications  for  Emergency  9-1-1  (E–911)  and,  more  specifically,  the  Senate  E–
+911  bill  entitled  ‘‘IP-Enabled  Voice  Communications  and  Public  Safety  Act  of  2005’’ 
+(S. 1063). 
+
+CenturyTel serves more than 63,000 customers in the Flathead Valley of Montana 
+and  was  recently  selected  to  be  the  9-1-1  provider  for  the  state.  In  addition  to  our 
+Montana operations, CenturyTel is also a national telecommunications company and 
+a  leading  provider  of  broadband  services  in  rural  America.  We  are  a  leading  pro-
+vider  of  telecommunications  services  in  26  states  that  include  many  of  the  states 
+represented  by  Members  of  this  Committee  including  Montana,  Texas,  Mississippi, 
+Nevada,  Oregon,  Louisiana,  Washington,  Arizona  and  Arkansas.  We  specialize  in 
+providing  high  quality  telephone,  long  distance,  Internet,  broadband,  satellite  and 
+advanced  services  in  rural  and  small  urban  markets.  Today,  CenturyTel  is  the 
+eighth largest telephone company in the United States with 2.3 million access lines. 
+Much of CenturyTel’s recent growth has come from the acquisition of telephone lines 
+from  the  larger  Bell  Operating  Companies  in  multiple  states.  The  majority  of  our 
+3 million customers and 7,000 employees live and work in the very areas that have 
+the most critical stake in the issue we will discuss today. 
+Voice Over Internet Protocol 
+
+CenturyTel is excited about the introduction of IP-enabled services in the market-
+place  and  about  deploying  new  technologies  and  creating  new  services  for  our  cus-
+tomers and communities. CenturyTel already offers IP-based services to many of our 
+business  customers  across  the  country.  That  said,  CenturyTel  believes  an  appro-
+priate transition period will be required for full-scale delivery of IP-enabled services 
+to all Americans. Related, but critical, features such as law enforcement capabilities 
+and  access  to  emergency  services  must  be  readily  available  and  tested  because  of 
+the technical aspects and dynamics of IP technology. 
+
+VoIP  is  an  example  of  even  better  things  to  come,  as  our  industry  increasingly 
+integrates with the computer hardware, software, and entertainment sectors. Inter-
+net  Protocol  is  blowing  the  voice  market  wide  open,  allowing  a  variety  of  providers 
+to serve ‘‘some’’ business and residential customers. I say ‘‘some customers’’ because, 
+that  VoIP  service  will  not  work  unless  a  facilities-based  provider  like  CenturyTel 
+or  the  local  cable  company  has  made  the  network  investment  required  to  enable  a 
+broadband connection that VoIP needs to work properly. 
+
+CenturyTel  and  companies  like  it  are  building  rural  America’s  broadband  net-
+work. Building robust rural networks requires expertise, commitment, access to cap-
+ital  and  substantial  investment—all  without  the  assurance  of  a  high  density  cus-
+tomer base to make a business case. While CenturyTel only averages 14 access lines 
+per square mile and seventy-five percent of our customers are residential, more than 
+seventy percent of our customers nationwide have access to CenturyTel DSL. In the 
+State  of  Montana  alone,  almost  ninety-six  percent  of  CenturyTel’s  sixty-three  thou-
+sand  access  lines  are  DSL-enabled,  and  a  significant  portion  of  our  one  hundred 
+fifty-six  million  dollar  total  investment  went  towards  deployment  of  broadband  to 
+enable  advanced  services.  Advanced  communications  networks  like  ours  are  the 
+foundation  for  realizing  the  promise  of  IP-enabled  services  like  switched  digital 
+video  and  other  new  services  yet  to  emerge.  Quite  simply,  you  can’t  deliver  the 
+promise of IP without a high capacity network. 
+
+Without question, the further integration of IP-enabled services as a telecommuni-
+cations  alternative  offers  both  challenges  and  opportunities  for  local  telecommuni-
+cations  companies.  We  have  adapted  to  a  new  world  of  rapid-paced  innovation  and 
+intense  competition  from  a  wide  variety  of  players.  Equally  true,  this  new  reality 
+is  forcing  fundamental  shifts  in  our  industry—from  proposed  mega-mergers  to  the 
+new  services  and  choices  our  companies  are  rolling  out.  Now,  the  Nation’s  commu-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00037 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+34
+
+nications  policy  must  adapt  as  well.  Since  we  have  barely  scratched  the  surface  of 
+broadband’s potential to produce a whole new generation of innovative applications, 
+I appreciate knowing that this Committee has proposed to write policies that broad-
+ly encourage network investment and product innovation far beyond first-generation 
+VoIP. 
+Importance of E–911 Capabilities for IP-Enabled Services 
+
+AT&T  first  made  ‘‘9-1-1’’  available  nationally  for  wireline  access  to  emergency 
+services  in  1965,  and  since  that  time,  the  American  public’s  dependence  on  9-1-1 
+service  has  continued  to  increase.  The  National  Emergency  Number  Association 
+(NENA)  estimates  that  some  form  of  9-1-1  service  is  available  to  99  percent  of  the 
+population in 96 percent of the counties in the United States, and roughly 200 mil-
+lion  calls  are  made  to  9-1-1  in  the  United  States  each  year.  CenturyTel  supports 
+the  concept  advanced  by  the  Federal  Communications  Commission  (FCC)  that  a 
+service or device should be subject to 9-1-1/E–911 regulation if the customers using 
+such  service  or  device  have  a  ‘‘reasonable  expectation  of  access  to  9-1-1  and  E–911 
+services.’’ Indeed, providing reliable and secure 9-1-1 and E–911 services has become 
+a  necessary  cost  of  doing  business  for  all  voice  providers,  regardless  of  platform 
+used. 
+
+The  American  public’s  expectations  for  access  to  emergency  services  have  not  di-
+minished,  but  admittedly  have  become  more  challenging  to  meet,  as  new  tech-
+nologies for delivering voice communications have arisen and as consumers have be-
+come  more  mobile.  The  wireless  industry  can  attest  to  the  challenges  in  imple-
+menting  emergency  services  in  an  increasingly  mobile  environment.  No  doubt,  IP-
+enabled  voice  communications  is  another  technology  that  will  present  challenges  in 
+implementing  emergency  services  because  it  can  be  delivered  using  so  many  dif-
+ferent platforms. However, the time is NOW to address the unique challenges VoIP 
+presents  for  having  access  to  emergency  services.  Intrado,  a  national  provider  of  9-
+1-1  database  management  services,  projects  a  nearly  tenfold  increase  in  expected 
+VoIP  9-1-1  calls  from  2004  to  2006,  to  a  total  of  3.5  million  residential  VoIP  9-1-
+1  calls  in  2006,  as  this  new  communication  technology  becomes  more  widespread. 
+Unfortunately,  recent  incidents  in  Texas,  Florida  and  Connecticut  have  brought 
+to  the  forefront  the  need  to  address  public  safety  issues  related  to  IP-enabled  voice 
+communications. By now everyone has probably heard about the family in Houston, 
+Texas  who  was  in  need  of  emergency  assistance  when  an  intruder  entered  their 
+home  and  attempted  to  burglarize  the  family  at  gunpoint.  During  the  incident,  a 
+9-1-1  call  using  an  interconnected  VoIP  service  was  unable  to  be  completed,  thus 
+delaying  dispatch  of  an  ambulance  for  the  wounded  homeowners.  The  incidents  in 
+Florida and Connecticut were just as traumatic and harrowing. 
+
+We  applaud  Congress  for  introducing  S.  1063  (and  likewise  H.R.  2418  in  the 
+House) and holding this field hearing in light of the reasons listed above. While the 
+FCC  has  issued  an  Order  and  Notice  of  Proposed  Rulemaking  on  E–911  require-
+ments  for  IP-enabled  service  providers,  we  are  glad  Congress  has  stepped  in  to  ad-
+dress  those  issues  where  the  FCC  believes  it  lacks  jurisdiction—namely,  requiring 
+incumbent  local  exchange  carriers  (ILECs)  to  give  VoIP  providers  access  to  emer-
+gency  services  infrastructure  and  immunity  from  liability  for  providing  9-1-1  serv-
+ices.  We  also  believe  S.  1063  provides  more  clarity  than  the  FCC’s  Order  on  some 
+issues  crucial  to  owners  of  emergency  services  infrastructure  and  can  hopefully 
+move  more  swiftly  towards  resolution  of  these  critical  issues.  I  will  discuss  S.  1063 
+and those other crucial issues more fully in the remarks that follow. 
+Appropriate Compensation for Access to Emergency Infrastructure 
+
+S.  1063  contains  a  provision  that  requires  entities  with  ownership  or  control  of 
+emergency  services  infrastructure  to  ‘‘provide  any  requesting  IP-enabled  voice  serv-
+ice  provider  with  nondiscriminatory  access  to  their  equipment,  network,  databases, 
+interfaces  and  any  other  related  capabilities  necessary  for  the  delivery  and  comple-
+tion of 9-1-1 and E–911 calls and information related to such 9-1-1 or E–911 calls.’’ 
+The  owner  ‘‘shall  provide  access  to  the  infrastructure  at  just  and  reasonable,  non-
+discriminatory rates, terms and conditions.’’ CenturyTel is pleased S. 1063 address-
+es  this  issue  and  believes  the  FCC’s  June  3,  2005  Order  does  not  fully  address  the 
+issue of requiring VoIP providers to compensate owners of emergency services infra-
+structure.  CenturyTel,  like  other  local  telephone  companies,  has  invested  in  net-
+works capable of connecting our customers to life-saving services such as 9-1-1, and 
+we  believe  that  providing  9-1-1  access  is  a  legitimate  cost  of  doing  business  for  all 
+voice providers. 
+
+CenturyTel  believes  that  creating  a  seamless  public  safety  and  reliability  stand-
+ard for all voice service providers is the best public policy and VoIP providers should 
+be held to the same public safety and reliability standards as other voice providers. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00038 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+35
+
+To require less of a provider merely because a different technology is used to facili-
+tate  the  voice  call  is  not  in  the  public’s  best  interest.  In  addition,  VoIP  providers 
+should  properly  compensate  incumbent  carriers  for  access  to  their  9-1-1  infrastruc-
+ture. ILECs should not have mandates to provide 9-1-1 and related services to VoIP 
+providers for free. 
+
+Today,  CenturyTel  either  owns  the  emergency  services  infrastructure  in  a  par-
+ticular area or properly compensates other owners of emergency services infrastruc-
+ture  in  areas  where  CenturyTel  is  not  itself  the  owner.  Generally,  a  telecommuni-
+cations carrier can either access emergency services infrastructure under a tariff ar-
+rangement  or  through  an  interconnection  agreement,  depending  on  the  require-
+ments  in  each  specific  state.  Under  the  current  sections  251  and  271  requirements 
+in the Telecommunications Act of 1996, the VoIP provider either has to declare itself 
+a ‘‘certificated’’ telecommunications carrier or negotiate access to emergency services 
+infrastructure  through  a  third  party  competitive  LEC.  Facilities-based  providers 
+must  have  assurances  that  VoIP  providers  have  a  requirement  to  adequately  com-
+pensate those who make the necessary investment for access to emergency services 
+infrastructure. Such compensation should be made at a level that adequately covers 
+the actual costs of ownership of emergency services infrastructure. The tariff process 
+provides sufficient protection for all providers involved in such an arrangement. 
+Liability Concerns 
+
+This  past  June,  CenturyTel  and  the  State  of  Montana  entered  into  a  contract 
+under  which  CenturyTel  will  provide  9-1-1  services  throughout  the  entire  State  of 
+Montana. During the negotiations for this contract, it became apparent that a major 
+concern  for  all  stakeholders  throughout  the  emergency  services  industry  is  liability 
+in the event something goes wrong in the process. While S. 1063 does contain a pro-
+vision  that  gives  providers  of  IP-enabled  voice  service  immunity  or  other  protection 
+from liability of a scope and extent that is not less than that given to any local ex-
+change  company  under  applicable  Federal  and  State  law  (whether  through  statute, 
+judicial  decision,  tariffs  filed  by  such  local  exchange  company,  or  otherwise), 
+CenturyTel feels more inquiry and work needs to be done to develop this issue fur-
+ther. 
+
+Statutes providing immunity and limitations of liability for 9-1-1 service providers 
+vary widely from state to state and in many cases do not really provide the liability 
+protections that may be appropriate for telecommunications companies, Public Safe-
+ty Answering Points (PSAPs), emergency services personnel, and local governments. 
+CenturyTel believes Congress should develop a Federal statute that provides mean-
+ingful limitation of liability provisions for all parties to add some consistency to the 
+process  and  supplant  the  patchwork  of  state  statutes  currently  addressing  liability 
+issues.  To  be  clear,  CenturyTel  proposes  a  Federal  statute  that  provides  immunity 
+from liability for all parties who act without willful or wanton conduct in the execu-
+tion and provision of a 9-1-1 call, similar to that codified in Oregon Revised Statutes 
+§ 401.715 (2003), as follows:
+
+‘‘No provider . . . or any other person that supplies 9-1-1 emergency reporting 
+system  equipment  . . .  or  the  9-1-1  jurisdiction  . . .  shall  be  held  civilly  liable 
+for the installation, performance, provision or maintenance of a 9-1-1 emergency 
+reporting  system  or  enhanced  9-1-1  telephone  service  if  the  provider  . . .  sup-
+plier  . . .  or  the  9-1-1  jurisdiction  . . .  act  without  willful  or  wanton  conduct.’’
+
+Key Policy Decisions Facing Congress and the FCC 
+
+Congress  should  affirm  that  those  using  the  network  must  pay  for  their  use. 
+‘‘Phantom  traffic’’  and  other  payment  avoidance  schemes  really  are  just  theft,  plain 
+and simple. Advanced communications networks are the foundation for realizing the 
+promise  of  IP-enabled  services  and  without  investments  by  companies  like 
+CenturyTel,  there  would  be  no  broadband  connection,  no  VoIP  and  ultimately  no 
+services like switched digital video or telemedicine. 
+
+Congress  should  support  the  21st  century  network  through  maintaining  the  Na-
+tion’s  commitment  to  Universal  Service.  Congress  should  support  stability  in  uni-
+versal  service  by  broadening  the  base  of  support  to  include  all  providers  of  voice 
+service,  including  VoIP,  and  setting  high  standards  in  order  to  receive  universal 
+service.  Also,  because  of  broadband’s  importance  to  the  future  of  advanced  services 
+deployment,  consideration  should  be  given  to  providing  explicit  support  for 
+broadband deployment. 
+
+Congress  should  continue  to  address  social  and  public  safety  concerns  in  an  ever 
+changing  technological  and  mobile  environment.  The  tragic  events  of  9/11  and  in 
+Texas,  Connecticut  and  Florida  have  highlighted  the  sense  of  urgency  in  this  area. 
+Congress can simply make clear that public safety responsibilities apply to all, and 
+must be fulfilled as a necessary requirement for all providers. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00039 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+36
+
+Congress should make clear that VoIP providers who are given nondiscriminatory 
+access  to  emergency  services  infrastructure  must  pay  adequate  compensation  to 
+local  telephone  companies  and  other  owners  of  such  infrastructure  in  an  amount 
+that  adequately  covers  the  actual  costs  of  ownership  of  the  infrastructure.  9-1-1  is 
+a legitimate cost of doing business for all voice providers and need not be borne en-
+tirely by customers. Without such assurances, no one will voluntarily want to be an 
+owner  of  this  emergency  services  infrastructure.  Therefore,  those  companies  that 
+‘‘step up to the plate’’ should be protected for their commitment to public safety. 
+
+Congress  should  develop  a  Federal  standard  that  addresses  limitation  of  liability 
+issues  in  the  provision  of  E–911  services.  Today’s  patchwork  of  state  statutes  pre-
+sents  significant  difficulties  for  stakeholders  who  seek  to  understand  their  rights, 
+responsibilities and potential liabilities with regard to implementation and provision 
+of  9-1-1  services.  A  national  program  like  9-1-1  that  requires  so  much  cooperation 
+between all stakeholders across the country should not be subject to the politics and 
+whims and desires of each state if it is to work as seamlessly as the American public 
+desires. 
+Conclusion 
+
+Senator  Burns,  we  thank  you  for  holding  this  hearing.  I  think  everyone  under-
+stands  the  importance  of  VoIP  and  E–911  to  the  Nation’s  economy  and  consumers 
+and  can  appreciate  that  your  decisions  in  this  area  will  help  shape  the  future  of 
+telecommunications  and  consumer  safety.  CenturyTel  is  eager  to  work  with  you  in 
+the  future  and  hopes  that  you  will  seriously  consider  the  points  we  make  here 
+today.  I  thank  you  for  the  opportunity  to  join  you  today  and  look  forward  to  your 
+questions.
+
+Senator  BURNS.  Thank  you  very  much.  A  question  arising  from 
+that  also.  Now  we’ll  hear  from  Bill  Squires,  Blackfoot  Tele-
+communications  Group,  and  he  follows  the  compliance  issues  very 
+closely. Bill, thank you for coming today. 
+STATEMENT  OF  WILLIAM  SQUIRES,  SR.  VICE  PRESIDENT  AND 
+GENERAL  COUNSEL,  BLACKFOOT  TELECOMMUNICATIONS 
+GROUP 
+Mr.  SQUIRES.  Thank  you  very  much,  Senator.  My  testimony  has 
+been  submitted,  so  I’ll  depart  actually  greatly  from  that,  because 
+I  think  the  testimony  I’ve  submitted,  I  would  encourage  the  Com-
+mittee to consider. 
+
+But  it  addresses—much  like  the  rest  of  the  testimony—VoIP 
+issues,  and  how  that  hits  our  rural  company.  I  talked  to  Monica 
+this  morning,  and  she  also  asked  me  to  address  some  of  the  wire-
+less compliance issues, so I’ll do my best to hit those. 
+
+For  the  record,  my  name  is  Bill  Squires.  I’m  Senior  Vice  Presi-
+dent  and  General  Counsel  for  Blackfoot  Telecommunications 
+Group,  which  is  headquartered  in  Missoula.  On  behalf  of  our  com-
+pany,  I  very  much  appreciate  the  opportunity  to  appear  at  this 
+hearing today. 
+
+Our  company  started  in  1954,  Senator,  and  its  mission  at  that 
+time, and now, continues to be bringing the best in communications 
+to  rural  Montana.  Part  of  that  mission  involves  the  safety  and  se-
+curity  of  our  members  and  our  neighbors,  and  we  do  that  largely 
+through E–911. 
+
+The  critical  issues  that  you’ve  already  heard  about  from  other 
+witnesses  here  today,  I’ll  just  reiterate  briefly  some  of  the  things 
+that concern us as a rural provider in Montana. 
+
+Jeremy  Ferkin  just  hit  on  compensation  issues.  Certainly  that’s 
+an  issue  for  us.  We  don’t  have  objections  with  access  to  our  net-
+work  for  VoIP  providers  in  order  to  enable  E–911  services;  but  as 
+you’re  keenly  aware,  the  cost  of  providing  services  in  rural  Mon-
+tana  is  extreme.  Certainly  we’re  greatly  dependent  on  Universal 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00040 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+37
+
+Service  Funds  for  that;  and  as  Jeremy  Ferkin  stated,  the  people 
+that  use  the  network  do  have  to  adequately  compensate  our  mem-
+bers and our company for that kind of access. 
+
+As  somewhat  of  a  side  note  to  that  same  issue,  Senator,  I  urge 
+you  and  Members  of  the  Committee  to  reconcile  that  access  re-
+quirement  in  Senate  Bill  1063  with  the  rural  exemptions  in  the 
+1996  Telecom  Act.  As  you’re  aware,  there  are  some  provisions  in 
+that  act  that  give  protection  to  rural  companies  to  opening  their 
+network  and  their  network  elements  to  other  companies  in  order 
+to protect the viability of rural telecommunications. We need to en-
+sure  that  the  access  provisions  of  Senate  Bill  1063  do  not  negate 
+those protections that were built into the 1996 Act. 
+
+Certainly  the  liability  parity  issues,  I  think  that  we  certainly 
+would and do support. Montana has a pretty good statute on liabil-
+ity protection for telephone providers, traditional telephone compa-
+nies,  when  it  comes  to  providing  E–911,  and  I  think  it  makes  per-
+fect sense to extend that same protection to providers of VoIP serv-
+ices. 
+
+Certainly  the  biggest  problem  we’re  facing,  Senator,  in  the 
+trenches  is  rural  addressing,  an  issue  I  know  you’re  familiar  with, 
+but  it’s  one  that  continues  to  haunt  our  implementation  of  E–911, 
+particularly certainly on the wireline side. 
+
+In  my  own  county,  in  Missoula  County,  where  Qwest  is  the 
+RBOC provider to Missoula, and we’re the independent provider to 
+the communities surrounding Missoula, such as Seeley Lake, Clin-
+ton,  etc.,  that  are  also  in  Missoula  County,  the  data  was  validated 
+to a sufficient level from a population percentage standpoint to roll 
+out  E–911  simply  by  validating  the  MSAG  for  the  Missoula  urban 
+area,  if  we  can  call  it  that,  without  having  to  validate  rural  ad-
+dressing for the rural areas. 
+
+And  so  E–911  has  been  implemented  in  Missoula  County,  really 
+to  the  exclusion  of  the  rural  areas,  and  that’s  something  that  has 
+to  be  addressed,  I  think,  with  the  standards  that  you  have  heard 
+from  other  witnesses  about.  The  counties  that  we  work  with  are 
+very  good  about  cooperating  with  us,  but  the  fact  of  the  matter  is 
+they’re  all  doing  their  own  thing,  and  we  do  need  some  standards 
+to allow us to interact with counties on the same basis. 
+
+Briefly, Senator, I’ll just touch on wireless issues in the interests 
+of  full  disclosure.  We  continue  to  operate  a  wireless  business  in 
+western  Montana,  but  we’ve  sold  it.  We’re  no  longer  the  owners  of 
+the  wireless  business,  although  we’re  the  operators  currently.  I’m 
+pleased  and  proud  to  report  to  you  today  that  that  system  is  fully 
+compliant  with  the  provisions  of  wireless  E–911.  We’ve  met  all  of 
+the standards to date, and we have no doubt that we’ll hit full com-
+pliance under the current statute. 
+
+And  I  would  be  happy  to  address  any  questions  you  may  have 
+with  wireless  compliance  as  well.  Again,  thank  you  for  the  oppor-
+tunity, Senator. 
+
+[The prepared statement of Mr. Squires follows:]
+PREPARED STATEMENT OF WILLIAM SQUIRES, SR. VICE PRESIDENT AND GENERAL 
+
+COUNSEL, BLACKFOOT TELECOMMUNICATIONS GROUP 
+
+Introduction 
+
+Senator Burns, my name is Bill Squires. I am the Sr. Vice President and General 
+Counsel  for  the  Blackfoot  Telecommunications  Group  headquartered  in  Missoula, 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00041 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+38
+
+Montana.  Blackfoot  is  both  an  incumbent  rural  telephone  company,  providing  serv-
+ice  to  approximately  18,000  customer  access  lines  in  rural  western  Montana,  and 
+a competitive local exchange carrier, providing competitive telecommunications serv-
+ices to the Missoula market. 
+Support for Senate Bill 1063
+
+Since  1954  when  Blackfoot  began  service  as  a  small  rural  telephone  cooperative, 
+it has done so in large part to provide our rural members with much needed contact 
+with  others,  including  vital  access  to  emergency  services.  The  continuing  develop-
+ment  of  our  global  economy,  and  the  absolute  need  for  Montana  to  be  a  player  in 
+that economy, dictates that our telecommunications networks and services be on par 
+with  those  in  much  larger  urban  areas—and  they  are.  However,  we  must  always 
+have  as  our  first  goal  the  safety  and  security  of  our  families  and  our  neighbors.  To 
+that  end,  we  applaud  the  introduction  of  Senate  Bill  1063,  and  very  much  appre-
+ciate your co-sponsorship of this important legislation. 
+
+There is a great deal of ‘‘buzz’’ surrounding the virtues of IP-Enabled Voice Serv-
+ices, or ‘‘VoIP’’ as it has been dubbed. To be sure, this technology represents signifi-
+cant advances in not only network utilization and efficiency, but in customer choice 
+flexibility.  With  that  flexibility  comes  the  heightened  obligation  to  ensure,  to  the 
+greatest  extent  possible,  that  all  our  customers,  including  those  in  our  rural  areas, 
+will have the benefits of Enhanced–911 services should they ever be needed. Senate 
+Bill 1063 takes many important steps in ensuring that E–911 services will be avail-
+able to VoIP customers. 
+Implementation Realities 
+
+Senate  Bill  1063  delegates  to  the  Federal  Communications  Commission  the  au-
+thority  to  prescribe  regulations  in  order  to  establish  a  set  of  requirements  on  pro-
+viders of IP-Enabled Voice Services. Section 2(b) of the bill would require companies 
+such  as  Blackfoot  to  provide  non-discriminatory  access  to  emergency  services  infra-
+structure.  While  Blackfoot  certainly  does  not  object  to  this  requirement,  I  implore 
+you  to  be  as  specific  as  possible  in  the  Congressional  Record  regarding  just  what 
+is  meant  by  such  ‘‘nondiscriminatory’’  access,  as  well  as  the  cost  recovery  mecha-
+nisms  for  such  infrastructure.  With  a  limited  customer  base,  Blackfoot  and  similar 
+companies  simply  cannot  absorb  a  great  deal  of  additional  expense  relating  to  up-
+dates  to  master  databases  of  location  information.  This  process  can  be  complicated 
+by  the  dynamic  nature  of  IP  devices,  meaning  that  location  databases  may  need  to 
+essentially  have  immediate  updates  whenever  a  user  of  this  service  changes  loca-
+tion. I would suggest that, similar to wireless E–911, a simpler and more cost effec-
+tive  implementation  regime  may  be  to  require,  over  time,  that  all  VoIP  devices  be 
+GPS-equipped. 
+
+Any  non-discriminatory  system  will  undoubtedly  involve  updating  of  customer 
+support software. Again, the Commission’s rules should provide for the fair recovery 
+of these costs. 
+
+As  an  aside,  and  somewhat  out  of  the  scope  of  this  hearing,  I  also  encourage  the 
+Committee,  and  the  Commission,  to  reconcile  the  bill’s  ‘‘non-discriminatory  access’’ 
+provisions  with  the  overriding  provisions  of  Section  251(f)  of  the  Telecommuni-
+cations  Act  of  1996,  which  exempts  rural  telephone  companies  such  as  Blackfoot 
+Telephone  Cooperative  from  certain  ‘‘unbundling’’  requirements  otherwise  imposed 
+by that Act. 
+
+Finally,  I  would  be  remiss  if  I  did  not  comment  on  the  biggest  obstacle  to  date 
+in implementing E–911 in rural service areas, and that is the issue of rural address-
+ing and county-state collaboration. Regarding addressing, some counties in Montana 
+have  contracted  with  third-parties  to  do  rural  addressing,  and  it  is  working  very 
+well.  However,  some  counties  have  chosen  to  undertake  the  addressing  themselves. 
+This  has  led  to  delays  in  completing  rural  addressing  in  a  timely  manner.  In  Mis-
+soula  County,  for  instance,  E–911  has  been  implemented  without  completion  of  ad-
+dressing in many of the rural areas served by Blackfoot. 
+
+Compounding  this  issue  is  the  lack  of  mandated  standards  for  addressing.  While 
+the  state  has  set  forth  recommended  standards,  each  county  is  free  to  implement 
+addressing in their own way. It may sound tedious, but designations such as ‘‘Lane’’, 
+‘‘In’’,  or  ‘‘Ine’’  have  significant  database  implications.  Similarly,  inconsistencies  in 
+databases maintained by some E–911 providers cause a great deal of delay, and ex-
+pense,  in  scrubbing  data.  Future  funding  and  implementation  regulations  can  be 
+used by the Commission to entice more counties to move toward standards, and for 
+providers to pay greater attention to clean data. 
+Conclusion 
+
+Again,  on  behalf  of  Blackfoot  Telecommunications  and  similar  rural  telephone 
+companies, I would like to thank you for bringing forward this important legislation. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00042 Fmt 6633 Sfmt 6621 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+39
+
+As  with  any  legislation,  the  devil  certainly  is  in  the  implementation  details,  and  I 
+commit  to  work  with  you,  your  staff,  the  Commission,  and  other  interested  parties 
+to  see  that  this  legislation  brings  to  rural  Montana  the  benefits  of  E–911  services, 
+while allowing us all to realize the opportunities brought by VoIP services.
+
+Senator  BURNS.  Thank  you,  Mr.  Squires.  I  appreciate  that  very 
+much.  Mr.  Greg  Jergeson,  Public  Service  Commission  of  Montana. 
+Welcome. 
+
+STATEMENT OF GREG JERGESON, CHAIRMAN, PUBLIC 
+
+SERVICE COMMISSION OF MONTANA 
+
+Mr. JERGESON. Thank you, Senator Burns, for having invited me 
+
+to appear before your Committee today. 
+
+I want to express my appreciation that you’re holding this impor-
+tant  hearing  in  Montana,  the  state  that  you  and  I  both  represent 
+as public servants, and it’s a special honor, frankly, for me that you 
+choose to have this hearing in Cascade County, which turns out to 
+be a cornerstone community of my own Public Service Commission 
+District No. 1, which runs from here north to the Canadian border, 
+and  east  to  North  Dakota;  and  if  there’s  a  definition  of  rural,  that 
+probably  is  PSC  District  1.  So  I  appreciate  you  bringing  this  hear-
+ing here today. 
+
+One of the first things I learned back in 1975 when I entered the 
+Montana  Senate  as  a  fresh  faced,  really  gung-ho  kind  of  guy,  was 
+some  of  the  older  hands  said,  ‘‘The  first  bit  of  advice  is  don’t  fili-
+buster  your  own  bills  to  death;’’  and  though  this  is  not  my  bill,  I 
+do support it, and I don’t wish to filibuster your bill to death, Sen-
+ator. So I’m going to keep my remarks fairly short. 
+
+We’ve  submitted  written  testimony.  I’ll  just  kind  of  paraphrase 
+some of the items in the written testimony, and then be happy, like 
+the others, to answer any questions you may have. 
+
+Clearly  Montana  citizens  expect  that  when  they  dial  9-1-1,  that 
+that  will  get  them  the  service  that  they  need  in  whatever  emer-
+gency  situation  they’re  experiencing,  irrespective  of  who  their 
+telecom  or  communications  provider  is,  be  it  wireline,  wireless,  or 
+VoIP; and the Montana PSC believes that this bill is important, in 
+that it is designed to make sure that that accepted universal serv-
+ice by almost everybody in the public is observed. 
+
+The  other  thing  important  about  it,  we  find  that  sometimes  on 
+the  Montana  PSC,  we  think  that  we  have  authority  to  do  certain 
+things,  but  we  get  a  certain  comfort  level  by  going  to  our  Legisla-
+ture  and  saying,  ‘‘We  would  like  to  have  that  authority  expressly 
+put into the statutes,’’ and I think much of your bill does that very 
+same  thing  with  respect  to  the  FCC  ruling  that  came  out  on  this 
+particular subject, is that it will clearly clarify that in fact the FCC 
+had that authority. 
+
+From  my  perspective  as  Chairman  of  the  State  Public  Service 
+Commission,  we  appreciate  the  provisions  in  your  bill,  particularly 
+Section  2(h),  which  permits  the  FCC  to  delegate  to  the  state  com-
+missions implementation and enforcement of the national rules. We 
+appreciate  Section  2(c)  that  clarifies  that  nothing  in  these  Federal 
+laws or rules will prevent the collection of fees on a non-discrimina-
+tory  basis  from  the  providers,  provided  that  that  revenue  is  dedi-
+cated to the 9-1-1 purposes. 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00043 Fmt 6633 Sfmt 6601 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+40
+
+I’ve  attached  to  my  testimony  a  resolution  passed  by  the  Na-
+tional  Association  of  Regulatory  Utility  Commissioners  at  their 
+summer  meeting  in  Austin,  Texas  this  summer  in  support  of  the 
+provisions  of  this  bill,  and  believe  that  that  gives  clearly  a  nation-
+wide feel to the support for this fine bill. 
+
+As a final observation, I would note that this bill and its require-
+ments that all service providers share in the delivery of this essen-
+tial universal service demonstrates that the distinction some would 
+make  between  information  services  and  telecommunications  serv-
+ices is in fact a distinction without a difference. And I support this 
+bill,  and  I  can  think  of  no  reason  why  it  shouldn’t  pass  without 
+delay.  I  commend  you  for  your  sponsoring  this  bill,  and  your  co-
+sponsors  as  well,  and  I  thank  you  for  this  opportunity  to  testify. 
+
+[The prepared statement of Mr. Jergeson follows:]
+
+PREPARED STATEMENT OF GREG JERGESON, CHAIRMAN, PUBLIC SERVICE COMMISSION 
+
+OF MONTANA 
+
+Montana citizens who dial 9-1-1 expect to be connected to emergency services per-
+sonnel.  This  expectation  exists  no  matter  what  kind  of  telephone  service  they  are 
+using—wireline,  wireless  or  the  newest  telecom  technology,  broadband/VoIP.  This 
+bill goes hand in hand with, and strengthens, the recent FCC action to require VoIP 
+companies  to  provide  their  customers  with  the  same  E–911  calling  capability  that 
+other telephone companies provide. 
+
+It  is  essential  to  public  safety  that  VoIP  providers  be  required  to  make  this  vital 
+emergency  service  available  to  all  of  their  customers  without  delay.  This  bill  does 
+that, and more. It also recognizes that traditional phone companies own the existing 
+E–911 infrastructure and mandates that those companies give VoIP providers access 
+to  their  9-1-1  networks  on  a  nondiscriminatory  basis  and  at  reasonable  rates.  And, 
+just in case there is any ambiguity in current law about the FCC’s authority to act 
+on VoIP E–911, this bill explicitly provides the FCC with that authority. 
+
+From  my  perspective  as  chairman  of  a  state  public  service  commission,  it  is  im-
+portant  to  retain  the  provisions  in  the  bill  that  recognize  the  role  of  states  in  the 
+provision of E–911 emergency services. In particular, Section 2(h) of the bill, which 
+permits  the  FCC  to  delegate  implementation  and  enforcement  of  the  national  9-1-
+1 rules to state commissions, should be retained. State commissions are the agencies 
+best situated to implement and enforce national 9-1-1 standards concerning the tele-
+communications providers operating in their states. 
+
+In addition, Section 2(c) clarifies that nothing in the bill or in Federal law or rules 
+prevents  states  from  collecting  9-1-1  fees  from  VoIP  phone  companies,  in  the  same 
+way fees are collected from other phone companies, if none of the collected revenue 
+is diverted for non-9-1-1 purposes. This, too, is an important feature of this bill. Cer-
+tainly  the  state  of  Montana  should  be  able  to  require  VoIP  companies  to  share  the 
+same responsibility for supporting Montana’s 9-1-1 program as other types of phone 
+companies currently do. 
+
+I note for the record that the National Association of Regulatory Utility Commis-
+sioners, which includes the Montana PSC, adopted a resolution at its summer meet-
+ing  that  commended  you  for  introducing  this  legislation  and  stated  the  organiza-
+tion’s  commitment  to  working  with  Congress,  the  FCC  and  the  industry  on  this 
+issue.  I’ve  attached  a  copy  of  the  NARUC  resolution  to  my  testimony.  NARUC  is 
+particularly  interested  in  preserving  the  productive  state  commission  role  in  arbi-
+trating  and  enforcing  interconnection  to  9-1-1  and  E–911  trunk  lines  and  hopes  to 
+clarify that role as this bill moves forward. 
+
+As final observation, I would note that this bill and its requirements that all serv-
+ice  providers  share  in  the  delivery  of  this  essential  universal  service  demonstrates 
+that  the  distinction  some  would  make  between  information  services  and  tele-
+communications services is, in fact, a distinction without a difference. 
+
+I support this bill and can think of no reason why it shouldn’t be enacted without 
+delay  by  Congress.  I  commend  Senator  Burns  for  sponsoring  it  as  well  as  for  his 
+continuing  support  of  Montana’s  E–911  program.  Thank  you  for  the  opportunity  to 
+testify.
+
+Senator BURNS. Thank you. Commissioner Jergeson, can you an-
+swer  a  question?  Nine  times  out  of  ten,  we  start  going  down  the 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00044 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+41
+
+road  of  legislation,  and  we  wrestle  with  definitions.  Are  we  going 
+to have to change some of the definitions between, say, communica-
+tions and information services? 
+
+Mr. JERGESON. Well, I think maybe we need to review what kind 
+of  definitions  the  various  parties  are  trying  to  put  to  those  kinds 
+of  services,  and  beware  that  they  may  be  making  distinctions  that 
+serve  their  purposes,  and  that  we  may  need  to  make  sure  that  we 
+have a definition that meets the old adage about the nature of the 
+duck, how it walks and quacks. 
+
+Senator  BURNS.  That’s  a  good  answer.  Mr.  Squires,  would  you 
+like to comment on that? Because we don’t always define the same 
+things  the  same  way,  and  whenever  we  start  down  this,  I  just 
+think  if  we  define  them  right  off  the  bat,  then  it  makes  our  job  a 
+lot easier. 
+
+Mr.  SQUIRES.  It  would,  Senator.  I  agree  with  that.  As  I  was  lis-
+tening  to  the  question  and  Chairman  Jergeson’s  response,  I  was 
+thinking of the duck adage. You beat me to it. 
+
+You  heard  testimony  from  someone—and  I  apologize.  I  can’t  re-
+member which one it was—on the panel right before us that essen-
+tially if it’s a voice call, then it’s a telecommunications service. And 
+I would absolutely agree with that. 
+
+If  it’s  a  two-way  voice  call,  where  I’m  picking  up  my  phone,  and 
+calling  your  office,  even  though  that  is  carried  over  IP  protocol, 
+that’s a telecommunications service; and if there are advantages to 
+be  gained  in  the  market—be  they  regulatory  advantages,  or  other 
+competitive  advantages—by  trying  to  shoehorn  something  into  an 
+information services definition, I think companies will do that, and 
+I  don’t  think  there’s  necessarily  anything  wrong  with  that.  That 
+gives them a competitive advantage. 
+
+That’s  why  I  do  think  it’s  important  that  legislation  and  regu-
+latory  rules  clarify  just  what  is  a  telecommunications  service,  and 
+in my mind, it’s just pretty simple. It’s a two-way conversation. 
+
+Senator BURNS. Same, Jeremy? 
+Mr.  FERKIN.  The  only  thing  I  would  add  to  it  is,  since  we’re  on 
+adages, follow the money. Why are people creating a differentiation 
+between  an  information  service  and  a  telecommunications  service? 
+And  in  most  cases,  it’s  to  get  around  paying  for  whomever’s  net-
+work  you’re  using.  There  is  no  IP  without  CenturyTel  and  compa-
+nies  like  Blackfoot  building  the  broadband  infrastructure  out  to 
+your home, your ranch, or wherever it may be. 
+
+So  Vonage  could  not  exist  without  our  infrastructure.  And  if 
+they’re  utilizing  our  infrastructure,  and  the  voice  communications 
+over it that are being used in such a manner that it takes revenue 
+away  from  us,  so  we  then  are  more  dependent  on  things  like  USF 
+for other things. Then if it quacks like a duck, it walks like a duck, 
+it’s a duck. The reality is. Voice is voice. 
+
+Senator  BURNS.  Let’s  talk  about  mapping  and  addressing.  That 
+seems  to  be  a  concern.  Why  is  it  so  difficult  that  we  can’t  get  cor-
+rect  mapping  for  locations  for  our  different  emergency  centers? 
+What’s the problem that we run into in mapping? 
+
+Mr. SQUIRES. Senator, the problem that quite simply we run into 
+in our area is resources. It’s expensive. Typically counties will hire 
+consultants,  or  can  hire  consultants—there  are  several  companies 
+out  there  that  do  this—to  essentially  go  around  and  GPS  every 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00045 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+42
+
+farmhouse, every home, every business out in our service area. It’s 
+expensive. 
+
+So resources, I think, are the number one issue. I think counties 
+are  doing  the  best  they  can,  but  they  don’t  have  the  human  re-
+sources  or  the  financial  resources  to  complete  the  job.  And  to  the 
+extent  that  Congress  can  help  them  with  those  resources,  I  think 
+that  would  go  a  great,  great  way  towards  getting  rural  addressing 
+and rural mapping done. 
+
+The other issue, of course, is that people hate to change their ad-
+dress.  We  have  to  change  our  address  in  Granite  County,  at 
+Georgetown  Lake,  because  we’re  on  the  opposite  side  of  the  road. 
+We have to be an odd number, not an even number. And that’s fine 
+for  a  cabin,  but  a  business  hates  to  change  their  address.  And  so 
+from that standpoint, there’s certainly some customer reluctance to 
+do  it,  but  the  main  problem  is  resources.  The  counties  need  the 
+money to get it done. 
+
+Senator BURNS. When you go Voice Over IP, addressing becomes 
+even more important, because when you move your computer, that 
+is  not  noted  whenever  they  call  it  in  that  he’s  moved  to  another 
+city,  even  though  it  may  be  in  the  same  area  that  the  telephone 
+company or whoever serves. Is that a problem, and should some re-
+sponsibility be incumbent on the computer user or the person using 
+the Voice Over IP services? 
+
+Mr.  SQUIRES.  Certainly  I  think  it  should  be,  Senator.  I  think 
+there  are  some  personal  responsibilities  that  people  have  to  take. 
+And  mobility  in  our  society  causes  an  increase,  I  think,  of  some  of 
+that responsibility. 
+
+Some of our technical folks think that we should get to the point 
+where we track VoIP devices just like we do cell phones, use GPS. 
+That’s  several  years  down  the  road,  and  right  now  there’s  the  ex-
+pense,  and  there’s  privacy  issues  certainly  that  go  with  that.  But 
+that can go a long ways towards taking care of that mobility prob-
+lem. 
+
+Senator BURNS. Mr. Jergeson. 
+Mr.  JERGESON.  Well,  I  think  that  it’s  extremely  important  that 
+somehow that person is located, and the technology probably exists 
+to  accomplish  that.  But  the  other  thing  that  is  important,  I  think, 
+in  this  whole  realm  or  whether  or  not  we  have  effective  9-1-1  is 
+whether or not the various technologies have coverage. I think the 
+cell phones in so many areas of the state being dead spots in Mon-
+tana.  Your  cell  phone  might  be  able  to  tell  somebody  where  you’re 
+at, but if you’re not in a place where you can get a signal, you can’t 
+complete the call to begin with. 
+
+Therefore, I think that’s a major consideration as we work on im-
+proving  and  fixing  our  9-1-1  systems,  is  that  part  of  that  needs  to 
+be  able  to  make  the  coverage  of  these  various  technologies  avail-
+able almost everywhere. 
+
+Senator BURNS. Jeremy. 
+Mr.  FERKIN.  Most  of  the—as  you  mentioned  earlier—the  dark 
+suited  people  are  carrying  devices  similar  to  this,  Blackberries  or 
+whatever  they  may  be.  So  I  think  our  laptops  and  our  concerns 
+about  the  mobile  computer  are  going  to  be  a  temporal  issue.  We 
+have On Star in most of our vehicles. Commission Jergeson speaks 
+perfectly about the fact that we still have issues where there aren’t 
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00046 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+43
+
+cell coverage areas in Montana. So regardless of whether you won’t 
+be  able  to  get  VoIP,  you  won’t  be  able  to  get  cell  coverage  issue, 
+but more and more people are going to a highly mobile device. 
+
+By the way, this has a GPS chip in it, so you don’t have to think 
+about  that.  So  I  think  we  have  a  time  period  here  where  laptops 
+are  going  to  continue  to  be  of  use,  but  Federal  statutes  could  step 
+in  and  say  GPS  devices  need  to  be  in  them  if  you’re  going  to  pro-
+vide  VoIP.  But  the  other  side  is  technology  protocols—not  that  it 
+will  mean  anything  to  a  lot  of  people  in  the  room—but  things  like 
+MPLS,  we’re  doing  Multi  Protocol  Label  Switching,  it’s  amazing 
+how when you’re sitting somewhere remote, your email still gets to 
+you, right? We can put in the addressing packet of that data where 
+you are. 
+
+So yes, it would be a requirement of that person, when they reg-
+ister  their  computer,  like  if  it  was  a  brand  new  Dell,  to  who  they 
+are, where they’re at; then when they go to a new location, to have 
+a  pop-up  that  says,  ‘‘We  see  that  you’re  not  coming  from  same  IP 
+address,’’ or ‘‘You’re not coming from the same location. You’re hit-
+ting new routers,’’ and it gives you a pop-up requirement. 
+
+Service providers can require that. Service providers can demand 
+that. So the technology isn’t the issue—we heard that from Mr. Cit-
+ron  and  other  people—the  issue  is  how  do  we  make  it  happen? 
+You’ve got to force it, and you’ve got to demand it. 
+
+So  those  tragedies  that  have  happened  in  multiple  states  aren’t 
+a result of technology, they’re a result of people being unwilling to 
+work  together,  and  Federal  statute  demanding  that  they  work  to-
+gether. 
+
+Senator  BURNS.  Mr.  Jergeson,  are  you  pretty  happy  with  the 
+build-out  and  the  progress  that’s  being  made  in  the  wireless  com-
+munications in this state? 
+
+Mr. JERGESON. No, I wouldn’t say that I’m particularly happy so 
+far. There’s been a lot of build-out. But when you think of my PSC 
+district,  you  can  drive  a  lot  of  miles  between  Grassrange  and  Cir-
+cle, and not have cell phone service; and just because it’s a sparsely 
+populated  area  doesn’t  mean  that  people  there  who  are  concerned 
+about  the  ability  to  communicate,  particularly  in  emergencies  or 
+family matters, not having coverage, they ought to be able to have 
+coverage. 
+
+We’re working very hard, and some of the providers are working 
+very hard, and the approval of ETC status for Midrivers Telephone 
+is—their  wireless  company  is  probably  going  to  help  a  great  deal 
+in the build-out of that service, and as we work through those with 
+other  providers  around  the  state.  But  the  process  is  slower  than  I 
+like it at this point. 
+
+Senator  BURNS.  We’ve  kind  of  identified  some  of  the  problems, 
+and there are some of the problems that we can work on in the leg-
+islation  and  some  of  them  that  we  can’t,  the  application,  and  on 
+how we force this new service out into rural areas, and do a really 
+good  job  in  emergencies  such  as  these.  I’m  a  very  strong  believer 
+in  9-1-1.  I’ve  seen  it  save  lives,  but  we  also  hear  some  horror  sto-
+ries whenever we start talking about locating people. 
+
+Here  in  Montana,  there  was  one  instance  in  Petroleum  County, 
+of  all  counties.  We  get  a  9-1-1  call.  It  did  go  to  the  closest  re-
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00047 Fmt 6633 Sfmt 6602 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+44
+
+sponder, which was Lewistown, and they couldn’t find him, and we 
+lost a life just because of that. 
+
+So that’s what we’re trying to prevent in this piece of legislation. 
+We’ve  identified  some  of  the  areas,  and  I  look  forward  to  working 
+with all of you to get this legislation passed, but also implemented. 
+I think it takes all of us working together to implementation. 
+
+The  mapping  concerns  me,  the  addressing  concerns  me,  because 
+that’s  very  important,  especially  where  you  have  communities—
+Let’s go to the Flathead over here in your part of the country, Mr. 
+Squires,  where  you  have  growth,  Missoula  experiencing  great 
+growth, new areas coming up. How do we stay ahead of that? And 
+the  old  folks  that  have  always  had  the  same  old  address,  they’re 
+not going to change. 
+
+Also  our  Blackberries.  I  changed  the  name  of  my  Blackberry  to 
+Dr.  Pepper.  In  order  to  manage  my  life,  I  only  turn  it  on  at  ten, 
+two, and four, and then I turn it off. But nonetheless, we are living 
+in  the  age  of  instant  communications.  And  so  I’m  under  the  as-
+sumption  that  human  nature  being  as  it  is,  if  you  don’t  really  re-
+spond  to  a  problem  right  away,  well,  in  two  hours  they’ve  already 
+solved  it,  and  they  didn’t  need  you  anyway.  But  sometimes  that  is 
+not  always  the  case.  But  I  know  that  people  don’t  like  to  change 
+addresses,  and  they’re  just  reluctant  to  change,  but  they’re  going 
+to have to. And most of them will. But we still have human nature 
+as it is. 
+
+Thank  you  for  your  testimony  today.  I’m  going  to  leave  the 
+record open for other Senators. If they have questions, you may get 
+written  questions  from  this  hearing.  If  you  would  respond  both  to 
+the  Committee  and  the  individual  member  of  the  Committee,  I 
+would  appreciate  that.  And  of  course,  all  your  statements  will  be 
+made  a  part  of  the  record.  I  thank  you  for  coming  today.  It’s  been 
+very  informative  to  me.  We’ve  still  got  a  little  work  to  do.  I  think 
+working  together  we  can  get  it  done.  Thank  you  very  much.  We’re 
+adjourned. 
+
+[Whereupon, at 2:53 p.m., the hearing was adjourned.]
+
+Æ
+
+VerDate 0ct 09 2002  13:35 Nov 30, 2006 Jkt 030555 PO 00000 Frm 00048 Fmt 6633 Sfmt 6611 S:\WPSHR\GPO\DOCS\30555.TXT JACKF PsN: JACKF
+
+
